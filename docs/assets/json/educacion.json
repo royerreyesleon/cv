@@ -1,0 +1,22 @@
+[
+    {
+        "id": "6100860e9aea5",
+        "fecha": "Agosto 2016 - Presente",
+        "url": "http:\/\/villahermosa.tecnm.mx\/",
+        "titulo": "INSTITUTO TECNOL\u00d3GICO DE VILLAHERMOSA",
+        "subtitulo": "INGENIERIA EN SISTEMAS COMPUTACI\u00d3NALES",
+        "descripcion": "",
+        "orden": 1,
+        "activo": "SI"
+    },
+    {
+        "id": "6100877a88e3d",
+        "fecha": "1 Mayo 2021",
+        "url": "\/assets\/educacion\/course-certificates-SCRUMstudy_RoyerReyesLe\u00f3n.pdf",
+        "titulo": "Certificaci\u00f3n SCRUM",
+        "subtitulo": "Scrum Fundamentals Certified",
+        "descripcion": "<div class=\"social-icons\">\r\n<a href=\"\/assets\/educacion\/course-certificates-SCRUMstudy_RoyerReyesLe\u00f3n.pdf\" target=\"_blank\">\r\n<i class=\"fas fa-file-pdf\"><\/i>\r\n        <\/a>\r\n<\/div>",
+        "orden": 2,
+        "activo": "SI"
+    }
+]
