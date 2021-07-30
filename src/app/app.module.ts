@@ -11,6 +11,7 @@ import { SkillComponent } from './components/skill/skill.component';
 import { BriefcaseComponent } from './components/briefcase/briefcase.component';
 import { CoursesComponent } from './components/courses/courses.component';
 import { PracticesComponent } from './components/practices/practices.component';
+// import {APP_BASE_HREF} from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -28,6 +29,7 @@ import { PracticesComponent } from './components/practices/practices.component';
     BrowserModule,
     AppRoutingModule
   ],
+  // providers: [{provide: APP_BASE_HREF, useValue: '#'}],
   providers: [],
   bootstrap: [AppComponent]
 })

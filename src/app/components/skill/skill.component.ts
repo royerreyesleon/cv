@@ -28,7 +28,7 @@ export class SkillComponent implements OnInit {
     const arr = Object.keys(cadena2[0]).map((key) => [key, cadena2[0][key]]);
     this.json = arr;
 
-console.log(arr);
+// console.log(arr);
 
     // RECORRER PARA LLENAR EL ARREGLO.
     // for (let index = 0; index < cadena2.length; index++) {

@@ -30,5 +30,21 @@
         "icono": "fab fa-instagram",
         "orden": 2,
         "activo": "SI"
+    },
+    {
+        "id": "61043128c1d2f",
+        "url": "https:\/\/wa.link\/knz4vz",
+        "nombre": "WhatsApp",
+        "icono": "fab fa-whatsapp",
+        "orden": 5,
+        "activo": "SI"
+    },
+    {
+        "id": "6104319a6bf20",
+        "url": "mailto:royerleon7@gmail.com",
+        "nombre": "gmail",
+        "icono": "fas fa-envelope",
+        "orden": 6,
+        "activo": "SI"
     }
 ]
