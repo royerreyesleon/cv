@@ -1,0 +1,52 @@
+[
+    {
+        "id": "610037dd61a27",
+        "fecha": "Noviembre 2017 - Junio 2018",
+        "cargo": "DESARROLLADOR WEB JUNIOR",
+        "empresa": "INSTITUTO TECNOLOGICO DE VILLAHERMOSA (DEPTO. CENTRO DE COMPUTO)",
+        "url": "http:\/\/villahermosa.tecnm.mx\/",
+        "descripcion": "<p class=\"text-justify\">Desarrollando sistema de control interno para el seguimiento de actividades de residentes del ITVH.<\/p>\r\n",
+        "orden": 1,
+        "activo": "SI"
+    },
+    {
+        "id": "610057b0cd5d9",
+        "fecha": "Marzo 2021 - Presente",
+        "cargo": "PROGRAMADOR | DESARROLLADOR DE SOFTWARE",
+        "empresa": "ORGANO SUPERIOR DE FIZCALIZACI\u00d3N DEL ESTADO (DEPTO. TECNOLOGIAS DE LA INFORMACI\u00d3N Y COMUNICACI\u00d3N)",
+        "url": "http:\/\/osfetabasco.gob.mx\/site\/",
+        "descripcion": "<p>Desarrollando sistemas y aplicaciones m&oacute;viles de&nbsp;control y gesti&oacute;n&nbsp;del OSFE.<\/p>\r\n\r\n<ul>\r\n\t<li class=\"mb-2 text-justify\"><a href=\"http:\/\/200.56.118.30:8081\/login\" target=\"_blank\">Ver Sistema de Declaraci&oacute;n Patrimonial y de Intereses de servidores p&uacute;blicos del OSFE 2021&nbsp;<\/a><\/li>\r\n\t<li class=\"mb-2 text-justify\"><a href=\"http:\/\/200.56.118.29\/estrados\" target=\"_blank\">Ver Sistema de Estrados Electr&oacute;nicos del OSFE 2021&nbsp;<\/a><\/li>\r\n\t<li class=\"text-justify\"><a href=\"http:\/\/www.osfetabasco.gob.mx:8080\/\" target=\"_blank\">Ver Portal de Obligaciones de Transparencia (POT) 2018<\/a>&nbsp;<\/li>\r\n<\/ul>\r\n",
+        "orden": 5,
+        "activo": "SI"
+    },
+    {
+        "id": "6100384c4f91c",
+        "fecha": "Julio 2018 - Diciembre 2018",
+        "cargo": "PASANTE DE DESARROLLADOR WEB",
+        "empresa": "ORGANO SUPERIOR DE FIZCALIZACI\u00d3N DEL ESTADO (DEPTO. TECNOLOGIAS DE LA INFORMACI\u00d3N Y COMUNICACI\u00d3N)",
+        "url": "http:\/\/osfetabasco.gob.mx\/site\/",
+        "descripcion": "<p class=\"text-justify\">Desarrollando sistema estatal de control de las cuentas p&uacute;blicas del estado. gesti&oacute;n de a&ntilde;os, leyes, art&iacute;culos, fracciones, incisos, archivos, control de departamentos, control de usuarios y m&aacute;s...<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"http:\/\/www.osfetabasco.gob.mx:8080\/\" target=\"_blank\">Ver Portal de Obligaciones de Transparencia (POT)<\/a><\/li>\r\n<\/ul>\r\n",
+        "orden": 2,
+        "activo": "SI"
+    },
+    {
+        "id": "610053107b14c",
+        "fecha": "Enero 2019 - Junio 2019",
+        "cargo": "DESARROLLADOR WEB",
+        "empresa": "INSTITUTO TECNOLOGICO DE VILLAHERMOSA (DEPTO. CENTRO DE COMPUTO)",
+        "url": "http:\/\/villahermosa.tecnm.mx\/",
+        "descripcion": "<p class=\"text-justify\">Desarrollando sistema de control interno para la gesti&oacute;n de solicitudes y el seguimiento de actividades de pasantes de servicio social del ITVH. (SIGEVI)<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"http:\/\/sigevi2.villahermosa.tecnm.mx\/\" target=\"_blank\">Ver SIGEVI<\/a><\/li>\r\n<\/ul>\r\n",
+        "orden": 3,
+        "activo": "SI"
+    },
+    {
+        "id": "6100552ece107",
+        "fecha": "Julio 2019 - Febrero 2021",
+        "cargo": "PROGRAMADOR | DESARROLLADOR DE SOFTWARE",
+        "empresa": "PALACIO DE GOBIERNO DEL ESTADO DE TABASCO. SECRETARIA T\u00c9CNICA (DEPTO. ESTADISTICA)",
+        "url": "https:\/\/tabasco.gob.mx\/stsg",
+        "descripcion": "<p class=\"text-justify\">Desarrollando sistemas de gesti&oacute;n de calidad y colaboraci&oacute;n en desarrollo de p&aacute;gina oficial del informe de gobierno.<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/informe.tabasco.gob.mx\/\" target=\"_blank\">Ver P&aacute;gina Oficial del Informe de Gobierno<\/a><\/li>\r\n<\/ul>\r\n",
+        "orden": 4,
+        "activo": "SI"
+    }
+]
