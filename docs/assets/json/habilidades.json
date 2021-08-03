@@ -1,0 +1,157 @@
+[
+  {
+    "lenguajes": [
+      {
+        "icono": "fa-li fab fa-php",
+        "texto": "PHP"
+      },
+      {
+        "icono": "fa-li fab fa-js-square",
+        "texto": "Javascript"
+      },
+      {
+        "icono": "fa-li fab fa-java",
+        "texto": "JAVA"
+      },
+      {
+        "icono": "fa-li fas fa-code",
+        "texto": "C#"
+      },
+      {
+        "icono": "fa-li fas fa-code",
+        "texto": ".NET"
+      },
+      {
+        "icono": "fa-li fas fa-code",
+        "texto": "Dart"
+      }
+    ],
+    "bases de datos": [
+      {
+        "icono": "fa-li fas fa-database",
+        "texto": "MySQL"
+      },
+      {
+        "icono": "fa-li fas fa-database",
+        "texto": "MariaDB"
+      },
+      {
+        "icono": "fa-li fas fa-database",
+        "texto": "PostgreSQL"
+      },
+      {
+        "icono": "fa-li fas fa-database",
+        "texto": "SQLServer"
+      },
+      {
+        "icono": "fa-li fas fa-code-branch",
+        "texto": "MongoDB"
+      },
+      {
+          "icono": "fa-li fas fa-code-branch",
+          "texto": "Firebase"
+        }
+    ],
+    "herramientas": [
+        {
+          "icono": "fa-li fab fa-node",
+          "texto": "NodeJS (Express)"
+        },
+        {
+          "icono": "fa-li fab fa-angular",
+          "texto": "Angular"
+        },
+      {
+        "icono": "fa-li fab fa-trello",
+        "texto": "Trello"
+      },
+      {
+          "icono": "fa-li fab fa-github",
+          "texto": "Github"
+        },
+        {
+            "icono": "fa-li fab fa-html5",
+            "texto": "HTML5"
+        },
+        {
+            "icono": "fa-li fab fa-css3",
+            "texto": "CSS3"
+        },
+        {
+          "icono": "fa-li fab fa-laravel",
+          "texto": "Laravel"
+        },
+      {
+        "icono": "fa-li  fab fa-bootstrap",
+        "texto": "Bootstrap 3, 4 y 5"
+      },
+      {
+        "icono": "fa-li fas fa-code",
+        "texto": "JQuery"
+      },
+      {
+        "icono": "fa-li fas fa-code",
+        "texto": "Codeigniter 3"
+      },
+      {
+        "icono": "fa-li fas fa-code",
+        "texto": "Yii2"
+      },
+      {
+        "icono": "fa-li fas fa-code",
+        "texto": "Ionic"
+      },
+      {
+        "icono": "fa-li fas fa-code",
+        "texto": "Flutter"
+      }
+    ],
+    "actitudes": [
+        {
+          "icono": "fa-li fa fa-check",
+          "texto": "Seriedad"
+        },
+        {
+          "icono": "fa-li fa fa-check",
+          "texto": "Empatía"
+        },
+        {
+          "icono": "fa-li fa fa-check",
+          "texto": "Positivo"
+        },
+        {
+          "icono": "fa-li fa fa-check",
+          "texto": "Seguridad"
+        },
+        {
+          "icono": "fa-li fa fa-check",
+          "texto": "Honestidad"
+        }
+      ],
+      "aptitudes": [
+        {
+          "icono": "fa-li fa fa-check",
+          "texto": "Iniciativa"
+        },
+        {
+          "icono": "fa-li fa fa-check",
+          "texto": "Creatividad"
+        },
+        {
+          "icono": "fa-li fa fa-check",
+          "texto": "Trabajo en equipo"
+        },
+        {
+          "icono": "fa-li fa fa-check",
+          "texto": "Liderazgo"
+        }
+      ],
+      "otras": [
+        {
+          "icono": "fa-li fa fa-check",
+          "texto": "Inglés técnico (lectura): Nivel medio/alto"
+        }
+      ]
+
+  }
+]
