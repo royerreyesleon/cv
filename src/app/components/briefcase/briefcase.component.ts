@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import * as data from './../../../assets/json/portafolio.json';  
 
+declare var $:any;
 
 @Component({
   selector: 'app-briefcase',
@@ -14,6 +15,11 @@ export class BriefcaseComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+
+    
+
+
+
     // JSON CADENA.
     var cadena  = JSON.stringify(data);
 
@@ -66,6 +72,23 @@ export class BriefcaseComponent implements OnInit {
 
 
     // console.log(this.json);
+
+
+
+    
+    // console.log(fotorama);
+    
+    $(function () {
+      // 1. Initialize fotorama manually.
+      var $fotoramaDiv = $('.fotorama').fotorama();
+  
+      // 2. Get the API object.
+      var fotorama = $fotoramaDiv.data('fotorama');
+      console.log(fotorama)
+    });
+    
+
+    
   }
 
 }
