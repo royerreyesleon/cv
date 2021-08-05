@@ -4,7 +4,7 @@
         "herramientas": {
             "lenguajes": [
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-php",
                     "texto": "PHP"
                 },
                 {
@@ -32,97 +32,97 @@
         "imagenes": [
             {
                 "id": "6108c4e68490d8.93632424",
-                "imagen": "6108c4e68490d8.93632424.png",
+                "imagen": "6108c4e68490d8.93632424-min.png",
                 "activo": "SI",
                 "orden": 1
             },
             {
                 "id": "6108c4e66290d0.60929754",
-                "imagen": "6108c4e66290d0.60929754.png",
+                "imagen": "6108c4e66290d0.60929754-min.png",
                 "activo": "SI",
                 "orden": 2
             },
             {
                 "id": "6108c4e66f5916.13302014",
-                "imagen": "6108c4e66f5916.13302014.png",
+                "imagen": "6108c4e66f5916.13302014-min.png",
                 "activo": "SI",
                 "orden": 3
             },
             {
                 "id": "6108c4e656d9d3.02787193",
-                "imagen": "6108c4e656d9d3.02787193.png",
+                "imagen": "6108c4e656d9d3.02787193-min.png",
                 "activo": "SI",
                 "orden": 4
             },
             {
                 "id": "6108c512a3c950.24036948",
-                "imagen": "6108c512a3c950.24036948.png",
+                "imagen": "6108c512a3c950.24036948-min.png",
                 "activo": "SI",
                 "orden": 5
             },
             {
                 "id": "6108c51282b5c6.66497963",
-                "imagen": "6108c51282b5c6.66497963.png",
+                "imagen": "6108c51282b5c6.66497963-min.png",
                 "activo": "SI",
                 "orden": 6
             },
             {
                 "id": "6108c5128dbd97.51213918",
-                "imagen": "6108c5128dbd97.51213918.png",
+                "imagen": "6108c5128dbd97.51213918-min.png",
                 "activo": "SI",
                 "orden": 7
             },
             {
                 "id": "6108c51298e412.82685666",
-                "imagen": "6108c51298e412.82685666.png",
+                "imagen": "6108c51298e412.82685666-min.png",
                 "activo": "SI",
                 "orden": 8
             },
             {
                 "id": "6108c5594082a4.23345796",
-                "imagen": "6108c5594082a4.23345796.png",
+                "imagen": "6108c5594082a4.23345796-min.png",
                 "activo": "SI",
                 "orden": 9
             },
             {
                 "id": "6108c55948a2f4.65279609",
-                "imagen": "6108c55948a2f4.65279609.png",
+                "imagen": "6108c55948a2f4.65279609-min.png",
                 "activo": "SI",
                 "orden": 10
             },
             {
                 "id": "6108c55963da77.69233392",
-                "imagen": "6108c55963da77.69233392.png",
+                "imagen": "6108c55963da77.69233392-min.png",
                 "activo": "SI",
                 "orden": 11
             },
             {
                 "id": "6108c55955dff3.09950908",
-                "imagen": "6108c55955dff3.09950908.png",
+                "imagen": "6108c55955dff3.09950908-min.png",
                 "activo": "SI",
                 "orden": 12
             },
             {
                 "id": "6108c579070939.09897542",
-                "imagen": "6108c579070939.09897542.png",
+                "imagen": "6108c579070939.09897542-min.png",
                 "activo": "SI",
                 "orden": 16
             },
             {
                 "id": "6108c5791362c5.58744441",
-                "imagen": "6108c5791362c5.58744441.png",
+                "imagen": "6108c5791362c5.58744441-min.png",
                 "activo": "SI",
                 "orden": 13
             },
             {
                 "id": "6108c5792088b6.84442198",
-                "imagen": "6108c5792088b6.84442198.png",
+                "imagen": "6108c5792088b6.84442198-min.png",
                 "activo": "SI",
                 "orden": 14
             },
             {
                 "id": "6108c5793c1454.39583541",
-                "imagen": "6108c5793c1454.39583541.png",
+                "imagen": "6108c5793c1454.39583541-min.png",
                 "activo": "SI",
                 "orden": 15
             }
@@ -139,116 +139,116 @@
         "imagenes": [
             {
                 "id": "6108c63307cbb2.62644146",
-                "imagen": "6108c63307cbb2.62644146.jpg",
+                "imagen": "6108c63307cbb2.62644146-min.jpg",
                 "activo": "SI",
                 "orden": 1
             },
             {
                 "id": "6108c632f0bd35.96719020",
-                "imagen": "6108c632f0bd35.96719020.jpg",
+                "imagen": "6108c632f0bd35.96719020-min.jpg",
                 "activo": "SI",
                 "orden": 2
             },
             {
                 "id": "6108c633263435.03080929",
-                "imagen": "6108c633263435.03080929.jpg",
+                "imagen": "6108c633263435.03080929-min.jpg",
                 "activo": "SI",
                 "orden": 3
             },
             {
                 "id": "6108c633190943.02941572",
-                "imagen": "6108c633190943.02941572.jpg",
+                "imagen": "6108c633190943.02941572-min.jpg",
                 "activo": "SI",
                 "orden": 4
             },
             {
                 "id": "6108c648c530d3.79465218",
-                "imagen": "6108c648c530d3.79465218.jpg",
+                "imagen": "6108c648c530d3.79465218-min.jpg",
                 "activo": "SI",
                 "orden": 5
             },
             {
                 "id": "6108c648bcce91.19914985",
-                "imagen": "6108c648bcce91.19914985.jpg",
+                "imagen": "6108c648bcce91.19914985-min.jpg",
                 "activo": "SI",
                 "orden": 6
             },
             {
                 "id": "6108c648d560d9.09166400",
-                "imagen": "6108c648d560d9.09166400.jpg",
+                "imagen": "6108c648d560d9.09166400-min.jpg",
                 "activo": "SI",
                 "orden": 7
             },
             {
                 "id": "6108c648b58664.49820514",
-                "imagen": "6108c648b58664.49820514.jpg",
+                "imagen": "6108c648b58664.49820514-min.jpg",
                 "activo": "SI",
                 "orden": 8
             },
             {
                 "id": "6108c68a048451.94747390",
-                "imagen": "6108c68a048451.94747390.jpg",
+                "imagen": "6108c68a048451.94747390-min.jpg",
                 "activo": "SI",
                 "orden": 9
             },
             {
                 "id": "6108c689f048a5.69928202",
-                "imagen": "6108c689f048a5.69928202.jpg",
+                "imagen": "6108c689f048a5.69928202-min.jpg",
                 "activo": "SI",
                 "orden": 10
             },
             {
                 "id": "6108c69b23de85.87393086",
-                "imagen": "6108c69b23de85.87393086.jpg",
+                "imagen": "6108c69b23de85.87393086-min.jpg",
                 "activo": "SI",
                 "orden": 11
             },
             {
                 "id": "6108c69b1a64f1.96193514",
-                "imagen": "6108c69b1a64f1.96193514.jpg",
+                "imagen": "6108c69b1a64f1.96193514-min.jpg",
                 "activo": "SI",
                 "orden": 12
             },
             {
                 "id": "6108c6ab4829c0.70203892",
                 "orden": 13,
-                "imagen": "6108c6ab4829c0.70203892.jpg",
+                "imagen": "6108c6ab4829c0.70203892-min.jpg",
                 "activo": "SI"
             },
             {
                 "id": "6108c6ab5263b5.56491272",
                 "orden": 14,
-                "imagen": "6108c6ab5263b5.56491272.jpg",
+                "imagen": "6108c6ab5263b5.56491272-min.jpg",
                 "activo": "SI"
             },
             {
                 "id": "6108c6b7a85711.31507945",
                 "orden": 15,
-                "imagen": "6108c6b7a85711.31507945.jpg",
+                "imagen": "6108c6b7a85711.31507945-min.jpg",
                 "activo": "SI"
             },
             {
                 "id": "6108c6b7b962c1.68581301",
                 "orden": 16,
-                "imagen": "6108c6b7b962c1.68581301.jpg",
+                "imagen": "6108c6b7b962c1.68581301-min.jpg",
                 "activo": "SI"
             },
             {
                 "id": "6108c6d1bc5926.45144026",
                 "orden": 17,
-                "imagen": "6108c6d1bc5926.45144026.jpg",
+                "imagen": "6108c6d1bc5926.45144026-min.jpg",
                 "activo": "SI"
             },
             {
                 "id": "6108c6d1c683b1.16539699",
                 "orden": 18,
-                "imagen": "6108c6d1c683b1.16539699.jpg",
+                "imagen": "6108c6d1c683b1.16539699-min.jpg",
                 "activo": "SI"
             },
             {
                 "id": "6108c6d1d24465.49356630",
                 "orden": 19,
-                "imagen": "6108c6d1d24465.49356630.jpg",
+                "imagen": "6108c6d1d24465.49356630-min.jpg",
                 "activo": "SI"
             }
         ],
@@ -282,5 +282,1120 @@
         "descripcion": "<p>Proyecto escolar final. Anuncios Publicitarios es un sistema encargado en asignaci&oacute;n de anuncios a empresas.<\/p>\r\n",
         "orden": "1",
         "activo": "SI"
+    },
+    {
+        "id": "6109fffc9890c",
+        "imagenes": [
+            {
+                "id": "610a00bccd7987.58304476",
+                "imagen": "610a00bccd7987.58304476-min.png",
+                "activo": "SI",
+                "orden": 1
+            },
+            {
+                "id": "610a00bce485d5.53623126",
+                "imagen": "610a00bce485d5.53623126-min.png",
+                "activo": "SI",
+                "orden": 2
+            },
+            {
+                "id": "610a00da52a302.57275118",
+                "imagen": "610a00da52a302.57275118-min.png",
+                "activo": "SI",
+                "orden": 3
+            },
+            {
+                "id": "610a00da2bf053.57385170",
+                "imagen": "610a00da2bf053.57385170-min.png",
+                "activo": "SI",
+                "orden": 4
+            },
+            {
+                "id": "610a0111b20436.02979644",
+                "imagen": "610a0111b20436.02979644-min.png",
+                "activo": "SI",
+                "orden": 5
+            },
+            {
+                "id": "610a0111a4fd90.17345254",
+                "imagen": "610a0111a4fd90.17345254-min.png",
+                "activo": "SI",
+                "orden": 6
+            },
+            {
+                "id": "610a0125de4784.35924095",
+                "orden": 7,
+                "imagen": "610a0125de4784.35924095-min.png",
+                "activo": "SI"
+            },
+            {
+                "id": "610a0125e9c738.51971683",
+                "orden": 8,
+                "imagen": "610a0125e9c738.51971683-min.png",
+                "activo": "SI"
+            },
+            {
+                "id": "610a0130bc8272.56450861",
+                "orden": 9,
+                "imagen": "610a0130bc8272.56450861-min.png",
+                "activo": "SI"
+            }
+        ],
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "POO y arquitectura MVC"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap (Plantilla AdminLTE)"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery DataTable"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery AJAX (CRUD sin refrescar pagina)"
+                }
+            ]
+        },
+        "encabezado": "\u00d3rgano Superior de Fiscalizaci\u00f3n del Estado - POT (Colaboraci\u00f3n - Terminado)",
+        "titulo": "PORTAL DE OBLIGACIONES DE TRANSPARENCIA",
+        "subtitulo": "JULIO 2018 - DICIEMBRE 2018",
+        "descripcion": "<p>Proyecto colaboraci&oacute;n con el &Oacute;rgano Superior de Fiscalizaci&oacute;n del Estado (OSFE). Sistema estatal de control de las cuentas p&uacute;blicas del estado. gesti&oacute;n de a&ntilde;os, leyes, art&iacute;culos, fracciones, incisos, archivos, control de departamentos, control de usuarios y m&aacute;s...<\/p>\r\n\r\n<p class=\"text-center\"><a href=\"http:\/\/www.osfetabasco.gob.mx:8080\/\" target=\"_blank\">Ver Portal de Obligaciones de Transparencia (POT)<\/a><\/p>\r\n",
+        "orden": 3,
+        "activo": "SI"
+    },
+    {
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Framework YII2 - POO y MVC con PHP 7"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - Webvimark"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - Select2"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - MPDF"
+                }
+            ]
+        },
+        "id": "610a0754f3445",
+        "encabezado": "Instituto Tecnol\u00f3gico de Villahermosa - SIGEVI (Terminado)",
+        "titulo": "INSTITUTO TECNOL\u00d3GICO DE VILLAHERMOSA - SIGEVI",
+        "subtitulo": "ENERO 2019 - JUNIO 2019",
+        "descripcion": "<p>Desarrollando sistema de control interno para la gesti&oacute;n de solicitudes y el seguimiento de actividades de pasantes de servicio social del ITVH. (SIGEVI).<\/p>\r\n\r\n<p class=\"text-center\"><a href=\"http:\/\/sigevi2.villahermosa.tecnm.mx\/\" target=\"_blank\">Ver SIGEVI<\/a><\/p>\r\n",
+        "orden": 4,
+        "activo": "SI"
+    },
+    {
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Framework YII2 - POO y MVC con PHP 7"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap (Plantilla Porto)"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - Webvimark"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - MPDF"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - Select2"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - FileInput"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - DatePicker, DateTimerPicker"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                }
+            ]
+        },
+        "id": "610a99d090ae9",
+        "encabezado": "Guarder\u00eda (Terminado)",
+        "titulo": "GUARDER\u00cdA",
+        "subtitulo": "ENERO 2019 - FEBRERO 2019",
+        "descripcion": "<p>Proyecto escolar final. Guarder&iacute;a es un sistema encargado en la gesti&oacute;n en de permisos, roles, usuarios, datos personales, tutores, educadores, encargados, grupos, ni&ntilde;os, modalidades, inscripciones, control de accesos diarios, reportes.<\/p>\r\n",
+        "orden": 5,
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "610a9c1ab901d5.96792464",
+                "imagen": "610a9c1ab901d5.96792464-min.png",
+                "activo": "SI",
+                "orden": 1
+            },
+            {
+                "id": "610a9c1ae9b2f3.51334797",
+                "imagen": "610a9c1ae9b2f3.51334797-min.png",
+                "activo": "SI",
+                "orden": 2
+            },
+            {
+                "id": "610a9c3d065167.75876854",
+                "imagen": "610a9c3d065167.75876854-min.png",
+                "activo": "SI",
+                "orden": 3
+            },
+            {
+                "id": "610a9c3d1277a3.73244662",
+                "imagen": "610a9c3d1277a3.73244662-min.png",
+                "activo": "SI",
+                "orden": 4
+            },
+            {
+                "id": "610a9c5e353143.37869350",
+                "imagen": "610a9c5e353143.37869350-min.png",
+                "activo": "SI",
+                "orden": 5
+            },
+            {
+                "id": "610a9c5e41dec8.80490540",
+                "imagen": "610a9c5e41dec8.80490540-min.png",
+                "activo": "SI",
+                "orden": 6
+            },
+            {
+                "id": "610a9c86644754.79059740",
+                "imagen": "610a9c86644754.79059740-min.png",
+                "activo": "SI",
+                "orden": 7
+            },
+            {
+                "id": "610a9c865bc1d7.03830056",
+                "imagen": "610a9c865bc1d7.03830056-min.png",
+                "activo": "SI",
+                "orden": 8
+            },
+            {
+                "id": "610a9cb5ce3980.77468903",
+                "imagen": "610a9cb5ce3980.77468903-min.png",
+                "activo": "SI",
+                "orden": 9
+            },
+            {
+                "id": "610a9cb5c12420.01833174",
+                "imagen": "610a9cb5c12420.01833174-min.png",
+                "activo": "SI",
+                "orden": 10
+            },
+            {
+                "id": "610a9d741f1bd6.41308608",
+                "imagen": "610a9d741f1bd6.41308608-min.png",
+                "activo": "SI",
+                "orden": 11
+            },
+            {
+                "id": "610a9d74134936.04030701",
+                "imagen": "610a9d74134936.04030701-min.png",
+                "activo": "SI",
+                "orden": 12
+            },
+            {
+                "id": "610a9db5f1a489.48472222",
+                "imagen": "610a9db5f1a489.48472222-min.png",
+                "activo": "SI",
+                "orden": 13
+            },
+            {
+                "id": "610a9db6089176.40063667",
+                "imagen": "610a9db6089176.40063667-min.png",
+                "activo": "SI",
+                "orden": 14
+            },
+            {
+                "id": "610a9dd944a6a7.31467362",
+                "imagen": "610a9dd944a6a7.31467362-min.png",
+                "activo": "SI",
+                "orden": 15
+            },
+            {
+                "id": "610a9dd9300d89.28188394",
+                "imagen": "610a9dd9300d89.28188394-min.png",
+                "activo": "SI",
+                "orden": 16
+            },
+            {
+                "id": "610a9f28629840.36136984",
+                "imagen": "610a9f28629840.36136984-min.png",
+                "activo": "SI",
+                "orden": 17
+            },
+            {
+                "id": "610a9f28c04bc3.82243446",
+                "imagen": "610a9f28c04bc3.82243446-min.png",
+                "activo": "SI",
+                "orden": 18
+            },
+            {
+                "id": "610a9f4866feb2.75757762",
+                "imagen": "610a9f4866feb2.75757762-min.png",
+                "activo": "SI",
+                "orden": 19
+            },
+            {
+                "id": "610a9f485e5c65.19443573",
+                "imagen": "610a9f485e5c65.19443573-min.png",
+                "activo": "SI",
+                "orden": 20
+            },
+            {
+                "id": "610a9f6eab8689.02784386",
+                "imagen": "610a9f6eab8689.02784386-min.png",
+                "activo": "SI",
+                "orden": 21
+            },
+            {
+                "id": "610a9f6eb72f61.79576158",
+                "imagen": "610a9f6eb72f61.79576158-min.png",
+                "activo": "SI",
+                "orden": 22
+            },
+            {
+                "id": "610a9f98a7c9d0.73531198",
+                "imagen": "610a9f98a7c9d0.73531198-min.png",
+                "activo": "SI",
+                "orden": 23
+            },
+            {
+                "id": "610a9f98b145f6.62243020",
+                "imagen": "610a9f98b145f6.62243020-min.png",
+                "activo": "SI",
+                "orden": 24
+            },
+            {
+                "id": "610a9fd6a1c0c7.92166379",
+                "imagen": "610a9fd6a1c0c7.92166379-min.png",
+                "activo": "SI",
+                "orden": 25
+            },
+            {
+                "id": "610a9fd69685b2.05090672",
+                "imagen": "610a9fd69685b2.05090672-min.png",
+                "activo": "SI",
+                "orden": 26
+            },
+            {
+                "id": "610aa0125b6ec8.92062190",
+                "imagen": "610aa0125b6ec8.92062190-min.png",
+                "activo": "SI",
+                "orden": 27
+            },
+            {
+                "id": "610aa012641d74.59460210",
+                "imagen": "610aa012641d74.59460210-min.png",
+                "activo": "SI",
+                "orden": 28
+            },
+            {
+                "id": "610aa0a7eb29e7.11696290",
+                "imagen": "610aa0a7eb29e7.11696290-min.png",
+                "activo": "SI",
+                "orden": 29
+            },
+            {
+                "id": "610aa0a8018ad2.60664014",
+                "imagen": "610aa0a8018ad2.60664014-min.png",
+                "activo": "SI",
+                "orden": 30
+            },
+            {
+                "id": "610aa0e5eb7816.98868785",
+                "imagen": "610aa0e5eb7816.98868785-min.png",
+                "activo": "SI",
+                "orden": 31
+            },
+            {
+                "id": "610aa0e5e1c1c2.53357526",
+                "imagen": "610aa0e5e1c1c2.53357526-min.png",
+                "activo": "SI",
+                "orden": 32
+            },
+            {
+                "id": "610aa13c420a94.92167096",
+                "imagen": "610aa13c420a94.92167096-min.png",
+                "activo": "SI",
+                "orden": 33
+            },
+            {
+                "id": "610aa13c4c2f73.95894864",
+                "imagen": "610aa13c4c2f73.95894864-min.png",
+                "activo": "SI",
+                "orden": 34
+            },
+            {
+                "id": "610aa168629d62.28892930",
+                "imagen": "610aa168629d62.28892930-min.png",
+                "activo": "SI",
+                "orden": 35
+            },
+            {
+                "id": "610aa1686ea881.00682481",
+                "imagen": "610aa1686ea881.00682481-min.png",
+                "activo": "SI",
+                "orden": 36
+            },
+            {
+                "id": "610aa18d333a83.44365945",
+                "imagen": "610aa18d333a83.44365945-min.png",
+                "activo": "SI",
+                "orden": 37
+            },
+            {
+                "id": "610aa18d454190.01666075",
+                "imagen": "610aa18d454190.01666075-min.png",
+                "activo": "SI",
+                "orden": 38
+            },
+            {
+                "id": "610aa1b706acf8.39574687",
+                "imagen": "610aa1b706acf8.39574687-min.png",
+                "activo": "SI",
+                "orden": 39
+            },
+            {
+                "id": "610aa1b7113b32.01968471",
+                "imagen": "610aa1b7113b32.01968471-min.png",
+                "activo": "SI",
+                "orden": 40
+            },
+            {
+                "id": "610aa1df1a44f8.20774716",
+                "imagen": "610aa1df1a44f8.20774716-min.png",
+                "activo": "SI",
+                "orden": 41
+            },
+            {
+                "id": "610aa1df706e66.82589284",
+                "imagen": "610aa1df706e66.82589284-min.png",
+                "activo": "SI",
+                "orden": 42
+            },
+            {
+                "id": "610aa20df08603.74599154",
+                "imagen": "610aa20df08603.74599154-min.png",
+                "activo": "SI",
+                "orden": 43
+            },
+            {
+                "id": "610aa20dddb914.61817852",
+                "imagen": "610aa20dddb914.61817852-min.png",
+                "activo": "SI",
+                "orden": 44
+            },
+            {
+                "id": "610aa2787dd247.48810965",
+                "imagen": "610aa2787dd247.48810965-min.png",
+                "activo": "SI",
+                "orden": 45
+            },
+            {
+                "id": "610aa278744b80.35109930",
+                "imagen": "610aa278744b80.35109930-min.png",
+                "activo": "SI",
+                "orden": 46
+            },
+            {
+                "id": "610aa31219cdd6.79339012",
+                "imagen": "610aa31219cdd6.79339012-min.png",
+                "activo": "SI",
+                "orden": 47
+            },
+            {
+                "id": "610aa31210af63.11883400",
+                "imagen": "610aa31210af63.11883400-min.png",
+                "activo": "SI",
+                "orden": 48
+            },
+            {
+                "id": "610aa373416a71.53517603",
+                "imagen": "610aa373416a71.53517603-min.png",
+                "activo": "SI",
+                "orden": 49
+            },
+            {
+                "id": "610aa3734be0f4.09442428",
+                "imagen": "610aa3734be0f4.09442428-min.png",
+                "activo": "SI",
+                "orden": 50
+            },
+            {
+                "id": "610aa39a525867.10082494",
+                "imagen": "610aa39a525867.10082494-min.png",
+                "activo": "SI",
+                "orden": 51
+            },
+            {
+                "id": "610aa399eccac6.23980195",
+                "imagen": "610aa399eccac6.23980195-min.png",
+                "activo": "SI",
+                "orden": 52
+            },
+            {
+                "id": "610aa3dd018db9.63146730",
+                "imagen": "610aa3dd018db9.63146730-min.png",
+                "activo": "SI",
+                "orden": 53
+            },
+            {
+                "id": "610aa3dce41471.71584512",
+                "imagen": "610aa3dce41471.71584512-min.png",
+                "activo": "SI",
+                "orden": 54
+            },
+            {
+                "id": "610aa419aacdf3.87491657",
+                "imagen": "610aa419aacdf3.87491657-min.png",
+                "activo": "SI",
+                "orden": 55
+            },
+            {
+                "id": "610aa419b46529.71845318",
+                "imagen": "610aa419b46529.71845318-min.png",
+                "activo": "SI",
+                "orden": 56
+            },
+            {
+                "id": "610aa419bd8ad1.94807330",
+                "imagen": "610aa419bd8ad1.94807330-min.png",
+                "activo": "SI",
+                "orden": 57
+            },
+            {
+                "id": "610aa441083fd9.46216950",
+                "imagen": "610aa441083fd9.46216950-min.png",
+                "activo": "SI",
+                "orden": 58
+            },
+            {
+                "id": "610aa440f046e7.78445944",
+                "imagen": "610aa440f046e7.78445944-min.png",
+                "activo": "SI",
+                "orden": 59
+            },
+            {
+                "id": "610aa440e11202.66283357",
+                "imagen": "610aa440e11202.66283357-min.png",
+                "activo": "SI",
+                "orden": 60
+            },
+            {
+                "id": "610aa46adf5276.94833080",
+                "orden": 61,
+                "imagen": "610aa46adf5276.94833080-min.png",
+                "activo": "SI"
+            },
+            {
+                "id": "610aa46ae83a05.93954748",
+                "orden": 62,
+                "imagen": "610aa46ae83a05.93954748-min.png",
+                "activo": "SI"
+            },
+            {
+                "id": "610aa46af33a04.61627971",
+                "orden": 63,
+                "imagen": "610aa46af33a04.61627971-min.png",
+                "activo": "SI"
+            }
+        ]
+    },
+    {
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Framework YII2 - POO y MVC con PHP 7"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap (Plantilla AdminLTE 2)"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - Webvimark"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                }
+            ]
+        },
+        "id": "610becd6c3e09",
+        "encabezado": "Red Social (En Desarrollo)",
+        "titulo": "RED SOCIAL",
+        "subtitulo": "ABRIL 2019 - PRESENTE",
+        "descripcion": "<p>Proyecto personal. Red Social tipo Facebook desarrollado con el framework YII2, a&uacute;n est&aacute; en desarrollo.<\/p>\r\n",
+        "orden": 6,
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "610bedfa2e1c49.16368110",
+                "imagen": "610bedfa2e1c49.16368110-min.png",
+                "activo": "SI",
+                "orden": 1
+            },
+            {
+                "id": "610bedfa1d8139.75059835",
+                "imagen": "610bedfa1d8139.75059835-min.png",
+                "activo": "SI",
+                "orden": 2
+            },
+            {
+                "id": "610bedf9dec5d3.68177604",
+                "imagen": "610bedf9dec5d3.68177604-min.png",
+                "activo": "SI",
+                "orden": 3
+            },
+            {
+                "id": "610bee2d275b54.54564668",
+                "imagen": "610bee2d275b54.54564668-min.png",
+                "activo": "SI",
+                "orden": 4
+            },
+            {
+                "id": "610bee2d101d88.03465726",
+                "imagen": "610bee2d101d88.03465726-min.png",
+                "activo": "SI",
+                "orden": 5
+            },
+            {
+                "id": "610bee2d18a0d2.76820086",
+                "imagen": "610bee2d18a0d2.76820086-min.png",
+                "activo": "SI",
+                "orden": 6
+            },
+            {
+                "id": "610bee71104f10.16586236",
+                "imagen": "610bee71104f10.16586236-min.png",
+                "activo": "SI",
+                "orden": 7
+            },
+            {
+                "id": "610bee717e1e80.85493096",
+                "imagen": "610bee717e1e80.85493096-min.png",
+                "activo": "SI",
+                "orden": 8
+            },
+            {
+                "id": "610bee7171e8a3.84799255",
+                "imagen": "610bee7171e8a3.84799255-min.png",
+                "activo": "SI",
+                "orden": 9
+            },
+            {
+                "id": "610beec94e98f5.77841743",
+                "imagen": "610beec94e98f5.77841743-min.png",
+                "activo": "SI",
+                "orden": 10
+            },
+            {
+                "id": "610beec9439c15.90216088",
+                "imagen": "610beec9439c15.90216088-min.png",
+                "activo": "SI",
+                "orden": 11
+            },
+            {
+                "id": "610beec95b7050.42021872",
+                "imagen": "610beec95b7050.42021872-min.png",
+                "activo": "SI",
+                "orden": 12
+            },
+            {
+                "id": "610bef08a09132.70519925",
+                "imagen": "610bef08a09132.70519925-min.png",
+                "activo": "SI",
+                "orden": 13
+            },
+            {
+                "id": "610bef08ab09e9.71033190",
+                "imagen": "610bef08ab09e9.71033190-min.png",
+                "activo": "SI",
+                "orden": 14
+            },
+            {
+                "id": "610bef08b4c550.48745543",
+                "imagen": "610bef08b4c550.48745543-min.png",
+                "activo": "SI",
+                "orden": 15
+            },
+            {
+                "id": "610bf10ac01c35.40803817",
+                "imagen": "610bf10ac01c35.40803817-min.png",
+                "activo": "SI",
+                "orden": 17
+            },
+            {
+                "id": "610bf10accaff5.58201912",
+                "imagen": "610bf10accaff5.58201912-min.png",
+                "activo": "SI",
+                "orden": 16
+            }
+        ]
+    },
+    {
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "POO y arquitectura MVC con PHP 7"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap (Plantilla AdminLTE 3)"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery DataTable Bootstrap 4"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery AJAX (CRUD sin refrescar pagina)"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - Fullcalendar"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - Daterangepicker"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin - Alertas Toastr"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                }
+            ]
+        },
+        "id": "610bf2169a445",
+        "encabezado": "Sistema Gestor de Citas Medicas | SGCM | (Terminado)",
+        "titulo": "SISTEMA GESTOR DE CITAS MEDICAS | SGCM",
+        "subtitulo": "AGOSTO 2019 - NOVIEMBRE 2019",
+        "descripcion": "<p>Proyecto escolar final. Se desarroll&oacute; un sistema web para la gesti&oacute;n de citas m&eacute;dicas en el centro de salud. El sistema se encarga en la gesti&oacute;n de inicio de sesi&oacute;n, ver datos personales y tiene la opci&oacute;n de cambiar su contrase&ntilde;a, gesti&oacute;n de las citas disponibles, gesti&oacute;n de especialidad de los doctores, gesti&oacute;n de doctores, gesti&oacute;n de consultorios m&eacute;dicos, gesti&oacute;n de perfiles\/roles, gesti&oacute;n de m&oacute;dulos\/vistas, gesti&oacute;n de permisos, gesti&oacute;n de usuarios, reportes.<\/p>\r\n",
+        "orden": 7,
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "610bf5ee7e92d1.34404645",
+                "imagen": "610bf5ee7e92d1.34404645.png",
+                "activo": "SI",
+                "orden": 1
+            },
+            {
+                "id": "610bf5ee659fd3.88550007",
+                "imagen": "610bf5ee659fd3.88550007.png",
+                "activo": "SI",
+                "orden": 2
+            },
+            {
+                "id": "610bf5ee6fbfe8.84598022",
+                "imagen": "610bf5ee6fbfe8.84598022.png",
+                "activo": "SI",
+                "orden": 3
+            },
+            {
+                "id": "610bf61a7db0c5.80439969",
+                "imagen": "610bf61a7db0c5.80439969.png",
+                "activo": "SI",
+                "orden": 4
+            },
+            {
+                "id": "610bf61a71abf4.56262557",
+                "imagen": "610bf61a71abf4.56262557.png",
+                "activo": "SI",
+                "orden": 5
+            },
+            {
+                "id": "610bf61a67e2d4.98189064",
+                "imagen": "610bf61a67e2d4.98189064.png",
+                "activo": "SI",
+                "orden": 6
+            },
+            {
+                "id": "610bf652a9b2f5.24349035",
+                "imagen": "610bf652a9b2f5.24349035.png",
+                "activo": "SI",
+                "orden": 7
+            },
+            {
+                "id": "610bf6529e5d83.63148996",
+                "imagen": "610bf6529e5d83.63148996.png",
+                "activo": "SI",
+                "orden": 8
+            },
+            {
+                "id": "610bf6529553c7.16117404",
+                "imagen": "610bf6529553c7.16117404.png",
+                "activo": "SI",
+                "orden": 9
+            },
+            {
+                "id": "610bf69e63dfa0.06727834",
+                "imagen": "610bf69e63dfa0.06727834.png",
+                "activo": "SI",
+                "orden": 10
+            },
+            {
+                "id": "610bf69e5a5e28.48378599",
+                "imagen": "610bf69e5a5e28.48378599.png",
+                "activo": "SI",
+                "orden": 11
+            },
+            {
+                "id": "610bf69e77e710.92190481",
+                "imagen": "610bf69e77e710.92190481.png",
+                "activo": "SI",
+                "orden": 12
+            },
+            {
+                "id": "610bf7117e5444.51217971",
+                "imagen": "610bf7117e5444.51217971.png",
+                "activo": "SI",
+                "orden": 13
+            },
+            {
+                "id": "610bf7116f9567.62730098",
+                "imagen": "610bf7116f9567.62730098.png",
+                "activo": "SI",
+                "orden": 14
+            },
+            {
+                "id": "610bf71161dc36.60186804",
+                "imagen": "610bf71161dc36.60186804.png",
+                "activo": "SI",
+                "orden": 15
+            },
+            {
+                "id": "610bf770086310.80373899",
+                "imagen": "610bf770086310.80373899.png",
+                "activo": "SI",
+                "orden": 16
+            },
+            {
+                "id": "610bf77021b397.87348920",
+                "imagen": "610bf77021b397.87348920.png",
+                "activo": "SI",
+                "orden": 17
+            },
+            {
+                "id": "610bf770129e54.22048111",
+                "imagen": "610bf770129e54.22048111.png",
+                "activo": "SI",
+                "orden": 18
+            },
+            {
+                "id": "610bf7f98b58d3.24494957",
+                "imagen": "610bf7f98b58d3.24494957.png",
+                "activo": "SI",
+                "orden": 19
+            },
+            {
+                "id": "610bf7f97f2c61.99242244",
+                "imagen": "610bf7f97f2c61.99242244.png",
+                "activo": "SI",
+                "orden": 20
+            },
+            {
+                "id": "610bf83e9dc332.88431835",
+                "imagen": "610bf83e9dc332.88431835.png",
+                "activo": "SI",
+                "orden": 21
+            },
+            {
+                "id": "610bf83eaf5e05.52445817",
+                "imagen": "610bf83eaf5e05.52445817.png",
+                "activo": "SI",
+                "orden": 22
+            },
+            {
+                "id": "610bf864a26bc1.57585162",
+                "imagen": "610bf864a26bc1.57585162.png",
+                "activo": "SI",
+                "orden": 23
+            },
+            {
+                "id": "610bf86498fa07.81856974",
+                "imagen": "610bf86498fa07.81856974.png",
+                "activo": "SI",
+                "orden": 24
+            },
+            {
+                "id": "610bf8a9c14f41.97642352",
+                "imagen": "610bf8a9c14f41.97642352.png",
+                "activo": "SI",
+                "orden": 25
+            },
+            {
+                "id": "610bf8a9b6dfb5.57143733",
+                "imagen": "610bf8a9b6dfb5.57143733.png",
+                "activo": "SI",
+                "orden": 26
+            },
+            {
+                "id": "610bf8ddab4606.00252468",
+                "imagen": "610bf8ddab4606.00252468.png",
+                "activo": "SI",
+                "orden": 27
+            },
+            {
+                "id": "610bf8ddb4dad8.60575434",
+                "imagen": "610bf8ddb4dad8.60575434.png",
+                "activo": "SI",
+                "orden": 28
+            },
+            {
+                "id": "610bf90eecc967.51134234",
+                "imagen": "610bf90eecc967.51134234.png",
+                "activo": "SI",
+                "orden": 29
+            },
+            {
+                "id": "610bf90ee301b4.16760502",
+                "imagen": "610bf90ee301b4.16760502.png",
+                "activo": "SI",
+                "orden": 30
+            },
+            {
+                "id": "610bf9a7c7a612.68531534",
+                "imagen": "610bf9a7c7a612.68531534.png",
+                "activo": "SI",
+                "orden": 31
+            },
+            {
+                "id": "610bf9a7d212d9.27236289",
+                "imagen": "610bf9a7d212d9.27236289.png",
+                "activo": "SI",
+                "orden": 32
+            },
+            {
+                "id": "610bf9eccab798.74013928",
+                "imagen": "610bf9eccab798.74013928.png",
+                "activo": "SI",
+                "orden": 33
+            },
+            {
+                "id": "610bf9ecd41780.24297975",
+                "imagen": "610bf9ecd41780.24297975.png",
+                "activo": "SI",
+                "orden": 34
+            },
+            {
+                "id": "610bfa15e69591.13679990",
+                "imagen": "610bfa15e69591.13679990.png",
+                "activo": "SI",
+                "orden": 35
+            },
+            {
+                "id": "610bfa15d8ef32.10553184",
+                "imagen": "610bfa15d8ef32.10553184.png",
+                "activo": "SI",
+                "orden": 36
+            },
+            {
+                "id": "610bfa5634abf3.28597505",
+                "imagen": "610bfa5634abf3.28597505.png",
+                "activo": "SI",
+                "orden": 37
+            },
+            {
+                "id": "610bfa563e52d6.80026246",
+                "imagen": "610bfa563e52d6.80026246.png",
+                "activo": "SI",
+                "orden": 38
+            },
+            {
+                "id": "610bfa81ee5344.18340380",
+                "imagen": "610bfa81ee5344.18340380.png",
+                "activo": "SI",
+                "orden": 39
+            },
+            {
+                "id": "610bfa81e252a2.32144309",
+                "imagen": "610bfa81e252a2.32144309.png",
+                "activo": "SI",
+                "orden": 40
+            },
+            {
+                "id": "610bfae7538b81.64540757",
+                "imagen": "610bfae7538b81.64540757.png",
+                "activo": "SI",
+                "orden": 41
+            },
+            {
+                "id": "610bfae7498373.70981812",
+                "imagen": "610bfae7498373.70981812.png",
+                "activo": "SI",
+                "orden": 42
+            },
+            {
+                "id": "610bfb2434dbe8.92479016",
+                "imagen": "610bfb2434dbe8.92479016.png",
+                "activo": "SI",
+                "orden": 43
+            },
+            {
+                "id": "610bfb243fb216.25176054",
+                "imagen": "610bfb243fb216.25176054.png",
+                "activo": "SI",
+                "orden": 44
+            },
+            {
+                "id": "610bfb45b376e9.51170735",
+                "imagen": "610bfb45b376e9.51170735.png",
+                "activo": "SI",
+                "orden": 45
+            },
+            {
+                "id": "610bfb45a6b2b1.02656960",
+                "imagen": "610bfb45a6b2b1.02656960.png",
+                "activo": "SI",
+                "orden": 46
+            },
+            {
+                "id": "610bfb861dc4a9.36906210",
+                "imagen": "610bfb861dc4a9.36906210.png",
+                "activo": "SI",
+                "orden": 47
+            },
+            {
+                "id": "610bfb8627abe4.20456493",
+                "imagen": "610bfb8627abe4.20456493.png",
+                "activo": "SI",
+                "orden": 48
+            },
+            {
+                "id": "610bfbaa377ec1.81334889",
+                "imagen": "610bfbaa377ec1.81334889.png",
+                "activo": "SI",
+                "orden": 49
+            },
+            {
+                "id": "610bfbaa2e40a2.36573588",
+                "imagen": "610bfbaa2e40a2.36573588.png",
+                "activo": "SI",
+                "orden": 50
+            },
+            {
+                "id": "610bfc137c05b5.90862311",
+                "imagen": "610bfc137c05b5.90862311.png",
+                "activo": "SI",
+                "orden": 51
+            },
+            {
+                "id": "610bfc1373d969.87705104",
+                "imagen": "610bfc1373d969.87705104.png",
+                "activo": "SI",
+                "orden": 52
+            },
+            {
+                "id": "610bfc3b008be4.58334660",
+                "imagen": "610bfc3b008be4.58334660.png",
+                "activo": "SI",
+                "orden": 54
+            },
+            {
+                "id": "610bfc3b09a710.97964000",
+                "imagen": "610bfc3b09a710.97964000.png",
+                "activo": "SI",
+                "orden": 53
+            }
+        ]
     }
 ]
