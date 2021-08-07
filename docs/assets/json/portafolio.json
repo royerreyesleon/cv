@@ -79,12 +79,6 @@
                 "orden": 8
             },
             {
-                "id": "6108c5594082a4.23345796",
-                "imagen": "6108c5594082a4.23345796-min.png",
-                "activo": "SI",
-                "orden": 9
-            },
-            {
                 "id": "6108c55948a2f4.65279609",
                 "imagen": "6108c55948a2f4.65279609-min.png",
                 "activo": "SI",
@@ -119,12 +113,6 @@
                 "imagen": "6108c5792088b6.84442198-min.png",
                 "activo": "SI",
                 "orden": 14
-            },
-            {
-                "id": "6108c5793c1454.39583541",
-                "imagen": "6108c5793c1454.39583541-min.png",
-                "activo": "SI",
-                "orden": 15
             }
         ],
         "encabezado": "RecyBag (Terminado)",
@@ -137,12 +125,6 @@
     {
         "id": "6100860e9aea5",
         "imagenes": [
-            {
-                "id": "6108c63307cbb2.62644146",
-                "imagen": "6108c63307cbb2.62644146-min.jpg",
-                "activo": "SI",
-                "orden": 1
-            },
             {
                 "id": "6108c632f0bd35.96719020",
                 "imagen": "6108c632f0bd35.96719020-min.jpg",
@@ -184,72 +166,6 @@
                 "imagen": "6108c648b58664.49820514-min.jpg",
                 "activo": "SI",
                 "orden": 8
-            },
-            {
-                "id": "6108c68a048451.94747390",
-                "imagen": "6108c68a048451.94747390-min.jpg",
-                "activo": "SI",
-                "orden": 9
-            },
-            {
-                "id": "6108c689f048a5.69928202",
-                "imagen": "6108c689f048a5.69928202-min.jpg",
-                "activo": "SI",
-                "orden": 10
-            },
-            {
-                "id": "6108c69b23de85.87393086",
-                "imagen": "6108c69b23de85.87393086-min.jpg",
-                "activo": "SI",
-                "orden": 11
-            },
-            {
-                "id": "6108c69b1a64f1.96193514",
-                "imagen": "6108c69b1a64f1.96193514-min.jpg",
-                "activo": "SI",
-                "orden": 12
-            },
-            {
-                "id": "6108c6ab4829c0.70203892",
-                "orden": 13,
-                "imagen": "6108c6ab4829c0.70203892-min.jpg",
-                "activo": "SI"
-            },
-            {
-                "id": "6108c6ab5263b5.56491272",
-                "orden": 14,
-                "imagen": "6108c6ab5263b5.56491272-min.jpg",
-                "activo": "SI"
-            },
-            {
-                "id": "6108c6b7a85711.31507945",
-                "orden": 15,
-                "imagen": "6108c6b7a85711.31507945-min.jpg",
-                "activo": "SI"
-            },
-            {
-                "id": "6108c6b7b962c1.68581301",
-                "orden": 16,
-                "imagen": "6108c6b7b962c1.68581301-min.jpg",
-                "activo": "SI"
-            },
-            {
-                "id": "6108c6d1bc5926.45144026",
-                "orden": 17,
-                "imagen": "6108c6d1bc5926.45144026-min.jpg",
-                "activo": "SI"
-            },
-            {
-                "id": "6108c6d1c683b1.16539699",
-                "orden": 18,
-                "imagen": "6108c6d1c683b1.16539699-min.jpg",
-                "activo": "SI"
-            },
-            {
-                "id": "6108c6d1d24465.49356630",
-                "orden": 19,
-                "imagen": "6108c6d1d24465.49356630-min.jpg",
-                "activo": "SI"
             }
         ],
         "herramientas": {
@@ -291,92 +207,15 @@
                 "imagen": "610a00bccd7987.58304476-min.png",
                 "activo": "SI",
                 "orden": 1
-            },
-            {
-                "id": "610a00bce485d5.53623126",
-                "imagen": "610a00bce485d5.53623126-min.png",
-                "activo": "SI",
-                "orden": 2
-            },
-            {
-                "id": "610a00da52a302.57275118",
-                "imagen": "610a00da52a302.57275118-min.png",
-                "activo": "SI",
-                "orden": 3
-            },
-            {
-                "id": "610a00da2bf053.57385170",
-                "imagen": "610a00da2bf053.57385170-min.png",
-                "activo": "SI",
-                "orden": 4
-            },
-            {
-                "id": "610a0111b20436.02979644",
-                "imagen": "610a0111b20436.02979644-min.png",
-                "activo": "SI",
-                "orden": 5
-            },
-            {
-                "id": "610a0111a4fd90.17345254",
-                "imagen": "610a0111a4fd90.17345254-min.png",
-                "activo": "SI",
-                "orden": 6
-            },
-            {
-                "id": "610a0125de4784.35924095",
-                "orden": 7,
-                "imagen": "610a0125de4784.35924095-min.png",
-                "activo": "SI"
-            },
-            {
-                "id": "610a0125e9c738.51971683",
-                "orden": 8,
-                "imagen": "610a0125e9c738.51971683-min.png",
-                "activo": "SI"
-            },
-            {
-                "id": "610a0130bc8272.56450861",
-                "orden": 9,
-                "imagen": "610a0130bc8272.56450861-min.png",
-                "activo": "SI"
             }
         ],
-        "herramientas": {
-            "lenguajes": [
-                {
-                    "icono": "fa-li fab fa-php",
-                    "texto": "PHP"
-                },
-                {
-                    "icono": "fa-li fas fa-code",
-                    "texto": "JAVASCRIPT"
-                }
-            ],
-            "herramientas": [
-                {
-                    "icono": "fa-li fa fa-tools",
-                    "texto": "POO y arquitectura MVC"
-                },
-                {
-                    "icono": "fa-li fa fa-tools",
-                    "texto": "Bootstrap (Plantilla AdminLTE)"
-                },
-                {
-                    "icono": "fa-li fa fa-tools",
-                    "texto": "JQuery DataTable"
-                },
-                {
-                    "icono": "fa-li fa fa-tools",
-                    "texto": "JQuery AJAX (CRUD sin refrescar pagina)"
-                }
-            ]
-        },
         "encabezado": "\u00d3rgano Superior de Fiscalizaci\u00f3n del Estado - POT (Colaboraci\u00f3n - Terminado)",
         "titulo": "PORTAL DE OBLIGACIONES DE TRANSPARENCIA",
         "subtitulo": "JULIO 2018 - DICIEMBRE 2018",
         "descripcion": "<p>Proyecto colaboraci&oacute;n con el &Oacute;rgano Superior de Fiscalizaci&oacute;n del Estado (OSFE). Sistema estatal de control de las cuentas p&uacute;blicas del estado. gesti&oacute;n de a&ntilde;os, leyes, art&iacute;culos, fracciones, incisos, archivos, control de departamentos, control de usuarios y m&aacute;s...<\/p>\r\n\r\n<p class=\"text-center\"><a href=\"http:\/\/www.osfetabasco.gob.mx:8080\/\" target=\"blank\"><strong>Click para ver Portal de Obligaciones de Transparencia (POT)<\/strong><\/a><\/p>\r\n",
         "orden": 3,
-        "activo": "SI"
+        "activo": "SI",
+        "herramientas": null
     },
     {
         "herramientas": {
@@ -419,7 +258,15 @@
         "subtitulo": "ENERO 2019 - JUNIO 2019",
         "descripcion": "<p>Desarrollando sistema de control interno para la gesti&oacute;n de solicitudes y el seguimiento de actividades de pasantes de servicio social del ITVH. (SIGEVI).<\/p>\r\n\r\n<p class=\"text-center\"><a href=\"http:\/\/sigevi2.villahermosa.tecnm.mx\/\" target=\"_blank\">Ver SIGEVI<\/a><\/p>\r\n",
         "orden": 4,
-        "activo": "SI"
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "610e905222bf50.67266714",
+                "orden": 1,
+                "imagen": "610e905222bf50.67266714.png",
+                "activo": "SI"
+            }
+        ]
     },
     {
         "herramientas": {
@@ -489,22 +336,10 @@
                 "orden": 1
             },
             {
-                "id": "610a9c1ae9b2f3.51334797",
-                "imagen": "610a9c1ae9b2f3.51334797-min.png",
-                "activo": "SI",
-                "orden": 2
-            },
-            {
                 "id": "610a9c3d065167.75876854",
                 "imagen": "610a9c3d065167.75876854-min.png",
                 "activo": "SI",
                 "orden": 3
-            },
-            {
-                "id": "610a9c3d1277a3.73244662",
-                "imagen": "610a9c3d1277a3.73244662-min.png",
-                "activo": "SI",
-                "orden": 4
             },
             {
                 "id": "610a9c5e353143.37869350",
@@ -531,12 +366,6 @@
                 "orden": 8
             },
             {
-                "id": "610a9cb5ce3980.77468903",
-                "imagen": "610a9cb5ce3980.77468903-min.png",
-                "activo": "SI",
-                "orden": 9
-            },
-            {
                 "id": "610a9cb5c12420.01833174",
                 "imagen": "610a9cb5c12420.01833174-min.png",
                 "activo": "SI",
@@ -553,12 +382,6 @@
                 "imagen": "610a9d74134936.04030701-min.png",
                 "activo": "SI",
                 "orden": 12
-            },
-            {
-                "id": "610a9db5f1a489.48472222",
-                "imagen": "610a9db5f1a489.48472222-min.png",
-                "activo": "SI",
-                "orden": 13
             },
             {
                 "id": "610a9db6089176.40063667",
@@ -589,24 +412,6 @@
                 "imagen": "610a9f28c04bc3.82243446-min.png",
                 "activo": "SI",
                 "orden": 18
-            },
-            {
-                "id": "610a9f4866feb2.75757762",
-                "imagen": "610a9f4866feb2.75757762-min.png",
-                "activo": "SI",
-                "orden": 19
-            },
-            {
-                "id": "610a9f485e5c65.19443573",
-                "imagen": "610a9f485e5c65.19443573-min.png",
-                "activo": "SI",
-                "orden": 20
-            },
-            {
-                "id": "610a9f6eab8689.02784386",
-                "imagen": "610a9f6eab8689.02784386-min.png",
-                "activo": "SI",
-                "orden": 21
             },
             {
                 "id": "610a9f6eb72f61.79576158",
@@ -651,12 +456,6 @@
                 "orden": 28
             },
             {
-                "id": "610aa0a7eb29e7.11696290",
-                "imagen": "610aa0a7eb29e7.11696290-min.png",
-                "activo": "SI",
-                "orden": 29
-            },
-            {
                 "id": "610aa0a8018ad2.60664014",
                 "imagen": "610aa0a8018ad2.60664014-min.png",
                 "activo": "SI",
@@ -679,30 +478,6 @@
                 "imagen": "610aa13c420a94.92167096-min.png",
                 "activo": "SI",
                 "orden": 33
-            },
-            {
-                "id": "610aa13c4c2f73.95894864",
-                "imagen": "610aa13c4c2f73.95894864-min.png",
-                "activo": "SI",
-                "orden": 34
-            },
-            {
-                "id": "610aa168629d62.28892930",
-                "imagen": "610aa168629d62.28892930-min.png",
-                "activo": "SI",
-                "orden": 35
-            },
-            {
-                "id": "610aa1686ea881.00682481",
-                "imagen": "610aa1686ea881.00682481-min.png",
-                "activo": "SI",
-                "orden": 36
-            },
-            {
-                "id": "610aa18d333a83.44365945",
-                "imagen": "610aa18d333a83.44365945-min.png",
-                "activo": "SI",
-                "orden": 37
             },
             {
                 "id": "610aa18d454190.01666075",
@@ -735,24 +510,6 @@
                 "orden": 42
             },
             {
-                "id": "610aa20df08603.74599154",
-                "imagen": "610aa20df08603.74599154-min.png",
-                "activo": "SI",
-                "orden": 43
-            },
-            {
-                "id": "610aa20dddb914.61817852",
-                "imagen": "610aa20dddb914.61817852-min.png",
-                "activo": "SI",
-                "orden": 44
-            },
-            {
-                "id": "610aa2787dd247.48810965",
-                "imagen": "610aa2787dd247.48810965-min.png",
-                "activo": "SI",
-                "orden": 45
-            },
-            {
                 "id": "610aa278744b80.35109930",
                 "imagen": "610aa278744b80.35109930-min.png",
                 "activo": "SI",
@@ -775,36 +532,6 @@
                 "imagen": "610aa373416a71.53517603-min.png",
                 "activo": "SI",
                 "orden": 49
-            },
-            {
-                "id": "610aa3734be0f4.09442428",
-                "imagen": "610aa3734be0f4.09442428-min.png",
-                "activo": "SI",
-                "orden": 50
-            },
-            {
-                "id": "610aa39a525867.10082494",
-                "imagen": "610aa39a525867.10082494-min.png",
-                "activo": "SI",
-                "orden": 51
-            },
-            {
-                "id": "610aa399eccac6.23980195",
-                "imagen": "610aa399eccac6.23980195-min.png",
-                "activo": "SI",
-                "orden": 52
-            },
-            {
-                "id": "610aa3dd018db9.63146730",
-                "imagen": "610aa3dd018db9.63146730-min.png",
-                "activo": "SI",
-                "orden": 53
-            },
-            {
-                "id": "610aa3dce41471.71584512",
-                "imagen": "610aa3dce41471.71584512-min.png",
-                "activo": "SI",
-                "orden": 54
             },
             {
                 "id": "610aa419aacdf3.87491657",
@@ -968,12 +695,6 @@
                 "orden": 10
             },
             {
-                "id": "610beec9439c15.90216088",
-                "imagen": "610beec9439c15.90216088-min.png",
-                "activo": "SI",
-                "orden": 11
-            },
-            {
                 "id": "610beec95b7050.42021872",
                 "imagen": "610beec95b7050.42021872-min.png",
                 "activo": "SI",
@@ -1085,12 +806,6 @@
                 "orden": 2
             },
             {
-                "id": "610bf5ee6fbfe8.84598022",
-                "imagen": "610bf5ee6fbfe8.84598022-min.png",
-                "activo": "SI",
-                "orden": 3
-            },
-            {
                 "id": "610bf61a7db0c5.80439969",
                 "imagen": "610bf61a7db0c5.80439969-min.png",
                 "activo": "SI",
@@ -1121,24 +836,6 @@
                 "orden": 8
             },
             {
-                "id": "610bf6529553c7.16117404",
-                "imagen": "610bf6529553c7.16117404-min.png",
-                "activo": "SI",
-                "orden": 9
-            },
-            {
-                "id": "610bf69e63dfa0.06727834",
-                "imagen": "610bf69e63dfa0.06727834-min.png",
-                "activo": "SI",
-                "orden": 10
-            },
-            {
-                "id": "610bf69e5a5e28.48378599",
-                "imagen": "610bf69e5a5e28.48378599-min.png",
-                "activo": "SI",
-                "orden": 11
-            },
-            {
                 "id": "610bf69e77e710.92190481",
                 "imagen": "610bf69e77e710.92190481-min.png",
                 "activo": "SI",
@@ -1149,12 +846,6 @@
                 "imagen": "610bf7117e5444.51217971-min.png",
                 "activo": "SI",
                 "orden": 13
-            },
-            {
-                "id": "610bf7116f9567.62730098",
-                "imagen": "610bf7116f9567.62730098-min.png",
-                "activo": "SI",
-                "orden": 14
             },
             {
                 "id": "610bf71161dc36.60186804",
@@ -1191,12 +882,6 @@
                 "imagen": "610bf7f97f2c61.99242244-min.png",
                 "activo": "SI",
                 "orden": 20
-            },
-            {
-                "id": "610bf83e9dc332.88431835",
-                "imagen": "610bf83e9dc332.88431835-min.png",
-                "activo": "SI",
-                "orden": 21
             },
             {
                 "id": "610bf83eaf5e05.52445817",
@@ -1257,12 +942,6 @@
                 "imagen": "610bf9a7c7a612.68531534-min.png",
                 "activo": "SI",
                 "orden": 31
-            },
-            {
-                "id": "610bf9a7d212d9.27236289",
-                "imagen": "610bf9a7d212d9.27236289-min.png",
-                "activo": "SI",
-                "orden": 32
             },
             {
                 "id": "610bf9eccab798.74013928",
@@ -1379,12 +1058,6 @@
                 "orden": 51
             },
             {
-                "id": "610bfc1373d969.87705104",
-                "imagen": "610bfc1373d969.87705104-min.png",
-                "activo": "SI",
-                "orden": 52
-            },
-            {
                 "id": "610bfc3b008be4.58334660",
                 "imagen": "610bfc3b008be4.58334660-min.png",
                 "activo": "SI",
@@ -1454,12 +1127,6 @@
                 "orden": 1
             },
             {
-                "id": "610c845a40a6e3.92695765",
-                "imagen": "610c845a40a6e3.92695765.png",
-                "activo": "SI",
-                "orden": 2
-            },
-            {
                 "id": "610c845a3577b6.62110609",
                 "imagen": "610c845a3577b6.62110609.png",
                 "activo": "SI",
@@ -1470,12 +1137,6 @@
                 "imagen": "610c84c8059506.04106989.png",
                 "activo": "SI",
                 "orden": 4
-            },
-            {
-                "id": "610c84c8112597.31009042",
-                "imagen": "610c84c8112597.31009042.png",
-                "activo": "SI",
-                "orden": 5
             },
             {
                 "id": "610c84c820d464.98393007",
@@ -1490,30 +1151,6 @@
                 "orden": 7
             },
             {
-                "id": "610c84f11aedc0.87129837",
-                "imagen": "610c84f11aedc0.87129837.png",
-                "activo": "SI",
-                "orden": 8
-            },
-            {
-                "id": "610c84f10da515.89057427",
-                "imagen": "610c84f10da515.89057427.png",
-                "activo": "SI",
-                "orden": 9
-            },
-            {
-                "id": "610c866dcaf1e0.85118143",
-                "imagen": "610c866dcaf1e0.85118143.png",
-                "activo": "SI",
-                "orden": 10
-            },
-            {
-                "id": "610c866d9f0f82.14881557",
-                "imagen": "610c866d9f0f82.14881557.png",
-                "activo": "SI",
-                "orden": 11
-            },
-            {
                 "id": "610c866dab7ab3.09368223",
                 "imagen": "610c866dab7ab3.09368223.png",
                 "activo": "SI",
@@ -1526,46 +1163,16 @@
                 "orden": 13
             },
             {
-                "id": "610c8723f0f5e8.56405736",
-                "imagen": "610c8723f0f5e8.56405736.png",
-                "activo": "SI",
-                "orden": 14
-            },
-            {
-                "id": "610c8723c7f6f2.12719687",
-                "imagen": "610c8723c7f6f2.12719687.png",
-                "activo": "SI",
-                "orden": 15
-            },
-            {
                 "id": "610c876d582b32.51238492",
                 "imagen": "610c876d582b32.51238492.png",
                 "activo": "SI",
                 "orden": 16
             },
             {
-                "id": "610c876d4cd490.29076550",
-                "imagen": "610c876d4cd490.29076550.png",
-                "activo": "SI",
-                "orden": 17
-            },
-            {
-                "id": "610c876d40af90.78869508",
-                "imagen": "610c876d40af90.78869508.png",
-                "activo": "SI",
-                "orden": 18
-            },
-            {
                 "id": "610c87fb5435c0.95972979",
                 "imagen": "610c87fb5435c0.95972979.png",
                 "activo": "SI",
                 "orden": 21
-            },
-            {
-                "id": "610c87fb5cbfc4.47399907",
-                "imagen": "610c87fb5cbfc4.47399907.png",
-                "activo": "SI",
-                "orden": 19
             },
             {
                 "id": "610c87fb698984.47057181",
@@ -2049,7 +1656,15 @@
         "subtitulo": "ABRIL 2020 - MAYO 2020",
         "descripcion": "<p>Proyecto personal. Se desarroll&oacute; un sistema web para el Control de Inventario, Ventas y Compras. El sistema se encarga en la gesti&oacute;n de inicio de sesi&oacute;n, ver datos personales y tiene la opci&oacute;n de cambiar su contrase&ntilde;a, gesti&oacute;n de categor&iacute;as, presentaciones, marcas, productos, clientes, proveedores, compras, ventas, inventarios, inversiones, gastos, reporte de compras y ventas, gesti&oacute;n de perfiles\/roles, gesti&oacute;n de m&oacute;dulos\/vistas, gesti&oacute;n de permisos, gesti&oacute;n de usuarios.<\/p>\r\n",
         "orden": 10,
-        "activo": "SI"
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "610e94158e7355.61034484",
+                "orden": 1,
+                "imagen": "610e94158e7355.61034484.png",
+                "activo": "SI"
+            }
+        ]
     },
     {
         "id": "610d476f96976",
@@ -2058,7 +1673,21 @@
         "subtitulo": "NOVIEMBRE 2019",
         "descripcion": "<p>Colaboraci&oacute;n en desarrollo de p&aacute;gina oficial del informe de gobierno.<\/p>\r\n\r\n<p class=\"text-center\"><a href=\"https:\/\/informe.tabasco.gob.mx\/\" target=\"blank\"><strong>CLICK PARA VER P&Aacute;GINA OFICIAL DEL INFORME DE GOBIERNO<\/strong><\/a><\/p>\r\n",
         "orden": 11,
-        "activo": "SI"
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "610e8b2d79b6c7.09699820",
+                "orden": 1,
+                "imagen": "610e8b2d79b6c7.09699820.png",
+                "activo": "SI"
+            },
+            {
+                "id": "610e8b2d845ed9.53811154",
+                "orden": 2,
+                "imagen": "610e8b2d845ed9.53811154.png",
+                "activo": "SI"
+            }
+        ]
     },
     {
         "id": "610d49f1edeca",
@@ -2067,7 +1696,15 @@
         "subtitulo": "MARZO 2021",
         "descripcion": "<p class=\"text-center\"><a href=\"http:\/\/200.56.118.29\/estrados\" target=\"blank\"><strong>CLICK PARA VER ESTRADOS ELECTRONICOS DEL OSFE<\/strong><\/a><\/p>\r\n",
         "orden": 12,
-        "activo": "SI"
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "610e8c04264e39.91884065",
+                "orden": 1,
+                "imagen": "610e8c04264e39.91884065.png",
+                "activo": "SI"
+            }
+        ]
     },
     {
         "id": "610d4cb56e26f",
@@ -2076,6 +1713,14 @@
         "subtitulo": "ABRIL 2021",
         "descripcion": "<p class=\"text-center\"><a href=\"http:\/\/200.56.118.30:8081\/\" target=\"blank\"><strong>CLICK PARA VER SISTEMA DE DECLARACI&Oacute;N PATRIMONIAL DEL OSFE<\/strong><\/a><\/p>\r\n",
         "orden": 13,
-        "activo": "SI"
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "610e8ca1a652d0.37688047",
+                "orden": 1,
+                "imagen": "610e8ca1a652d0.37688047.png",
+                "activo": "SI"
+            }
+        ]
     }
 ]
