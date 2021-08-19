@@ -1,13 +1,5 @@
 [
     {
-        "id": "6100918877e3d",
-        "url": "#",
-        "nombre": "LINKEDIN",
-        "icono": "fab fa-linkedin-in",
-        "orden": 3,
-        "activo": "SI"
-    },
-    {
         "id": "610091c847b3b",
         "url": "https:\/\/github.com\/royerreyesleon",
         "nombre": "GITHUB",
@@ -45,6 +37,14 @@
         "nombre": "gmail",
         "icono": "fas fa-envelope",
         "orden": 6,
+        "activo": "SI"
+    },
+    {
+        "id": "6100918877e3d",
+        "url": "https:\/\/www.linkedin.com\/in\/royer-reyes-leon",
+        "nombre": "LINKEDIN",
+        "icono": "fab fa-linkedin-in",
+        "orden": 3,
         "activo": "SI"
     }
 ]
