@@ -10,16 +10,6 @@
         "activo": "SI"
     },
     {
-        "id": "610057b0cd5d9",
-        "fecha": "Marzo 2021 - Presente",
-        "cargo": "PROGRAMADOR | DESARROLLADOR DE SOFTWARE",
-        "empresa": "ORGANO SUPERIOR DE FIZCALIZACI\u00d3N DEL ESTADO (DEPTO. TECNOLOGIAS DE LA INFORMACI\u00d3N Y COMUNICACI\u00d3N)",
-        "url": "http:\/\/osfetabasco.gob.mx\/site\/",
-        "descripcion": "<p>Desarrollando sistemas y aplicaciones m&oacute;viles de&nbsp;control y gesti&oacute;n&nbsp;del OSFE.<\/p>\r\n\r\n<ul>\r\n\t<li class=\"mb-2 text-justify\"><a href=\"http:\/\/200.56.118.30:8081\/login\" target=\"_blank\">Ver Sistema de Declaraci&oacute;n Patrimonial y de Intereses de servidores p&uacute;blicos del OSFE 2021&nbsp;<\/a><\/li>\r\n\t<li class=\"mb-2 text-justify\"><a href=\"http:\/\/200.56.118.29\/estrados\" target=\"_blank\">Ver Sistema de Estrados Electr&oacute;nicos del OSFE 2021&nbsp;<\/a><\/li>\r\n\t<li class=\"text-justify\"><a href=\"http:\/\/www.osfetabasco.gob.mx:8080\/\" target=\"_blank\">Ver Portal de Obligaciones de Transparencia (POT) 2018<\/a>&nbsp;<\/li>\r\n<\/ul>\r\n",
-        "orden": 5,
-        "activo": "SI"
-    },
-    {
         "id": "6100384c4f91c",
         "fecha": "Julio 2018 - Diciembre 2018",
         "cargo": "PASANTE DE DESARROLLADOR WEB",
@@ -47,6 +37,16 @@
         "url": "https:\/\/tabasco.gob.mx\/stsg",
         "descripcion": "<p class=\"text-justify\">Desarrollando sistemas de gesti&oacute;n de calidad y colaboraci&oacute;n en desarrollo de p&aacute;gina oficial del informe de gobierno.<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/informe.tabasco.gob.mx\/\" target=\"_blank\">Ver P&aacute;gina Oficial del Informe de Gobierno<\/a><\/li>\r\n<\/ul>\r\n",
         "orden": 4,
+        "activo": "SI"
+    },
+    {
+        "id": "610057b0cd5d9",
+        "fecha": "Marzo 2021 - Presente",
+        "cargo": "PROGRAMADOR | DESARROLLADOR DE SOFTWARE",
+        "empresa": "ORGANO SUPERIOR DE FIZCALIZACI\u00d3N DEL ESTADO (DEPTO. TECNOLOGIAS DE LA INFORMACI\u00d3N Y COMUNICACI\u00d3N)",
+        "url": "http:\/\/osfetabasco.gob.mx\/site\/",
+        "descripcion": "<p>Desarrollando sistemas y aplicaciones m&oacute;viles de&nbsp;control y gesti&oacute;n&nbsp;del OSFE.<\/p>\r\n\r\n<ul>\r\n\t<li class=\"mb-2 text-justify\"><a href=\"https:\/\/play.google.com\/store\/apps\/details?id=com.osfetabascogobmx.tesken&hl=es_MX\" target=\"_blank\">Ver App móvil oficial del OSFE&nbsp;<\/a><\/li>\r\n\t<li class=\"mb-2 text-justify\"><a href=\"http:\/\/200.56.118.30:8081\/login\" target=\"_blank\">Ver Sistema de Declaraci&oacute;n Patrimonial y de Intereses de servidores p&uacute;blicos del OSFE 2021&nbsp;<\/a><\/li>\r\n\t<li class=\"mb-2 text-justify\"><a href=\"http:\/\/200.56.118.29\/estrados\" target=\"_blank\">Ver Sistema de Estrados Electr&oacute;nicos del OSFE 2021&nbsp;<\/a><\/li>\r\n\t<li class=\"mb-2 text-justify\"><a href=\"http:\/\/www.osfetabasco.gob.mx:8080\/\" target=\"_blank\">Ver Portal de Obligaciones de Transparencia (POT) 2018<\/a>&nbsp;<\/li>\r\n<\/ul>\r\n",
+        "orden": 5,
         "activo": "SI"
     }
 ]

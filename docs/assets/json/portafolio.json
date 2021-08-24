@@ -43,12 +43,6 @@
                 "orden": 2
             },
             {
-                "id": "6108c4e66f5916.13302014",
-                "imagen": "6108c4e66f5916.13302014-min.png",
-                "activo": "SI",
-                "orden": 3
-            },
-            {
                 "id": "6108c4e656d9d3.02787193",
                 "imagen": "6108c4e656d9d3.02787193-min.png",
                 "activo": "SI",
@@ -402,12 +396,6 @@
                 "orden": 18
             },
             {
-                "id": "610a9f6eb72f61.79576158",
-                "imagen": "610a9f6eb72f61.79576158-min.png",
-                "activo": "SI",
-                "orden": 22
-            },
-            {
                 "id": "610a9f98a7c9d0.73531198",
                 "imagen": "610a9f98a7c9d0.73531198-min.png",
                 "activo": "SI",
@@ -496,12 +484,6 @@
                 "imagen": "610aa278744b80.35109930-min.png",
                 "activo": "SI",
                 "orden": 46
-            },
-            {
-                "id": "610aa31219cdd6.79339012",
-                "imagen": "610aa31219cdd6.79339012-min.png",
-                "activo": "SI",
-                "orden": 47
             },
             {
                 "id": "610aa31210af63.11883400",
@@ -699,12 +681,6 @@
                 "imagen": "610bf10ac01c35.40803817-min.png",
                 "activo": "SI",
                 "orden": 17
-            },
-            {
-                "id": "610bf10accaff5.58201912",
-                "imagen": "610bf10accaff5.58201912-min.png",
-                "activo": "SI",
-                "orden": 16
             }
         ]
     },
@@ -780,18 +756,6 @@
                 "imagen": "610bf5ee659fd3.88550007-min.png",
                 "activo": "SI",
                 "orden": 2
-            },
-            {
-                "id": "610bf61a7db0c5.80439969",
-                "imagen": "610bf61a7db0c5.80439969-min.png",
-                "activo": "SI",
-                "orden": 4
-            },
-            {
-                "id": "610bf61a71abf4.56262557",
-                "imagen": "610bf61a71abf4.56262557-min.png",
-                "activo": "SI",
-                "orden": 5
             },
             {
                 "id": "610bf652a9b2f5.24349035",
@@ -902,12 +866,6 @@
                 "orden": 39
             },
             {
-                "id": "610bfa81e252a2.32144309",
-                "imagen": "610bfa81e252a2.32144309-min.png",
-                "activo": "SI",
-                "orden": 40
-            },
-            {
                 "id": "610bfae7538b81.64540757",
                 "imagen": "610bfae7538b81.64540757-min.png",
                 "activo": "SI",
@@ -936,12 +894,6 @@
                 "imagen": "610bfb45a6b2b1.02656960-min.png",
                 "activo": "SI",
                 "orden": 46
-            },
-            {
-                "id": "610bfb861dc4a9.36906210",
-                "imagen": "610bfb861dc4a9.36906210-min.png",
-                "activo": "SI",
-                "orden": 47
             },
             {
                 "id": "610bfb8627abe4.20456493",
@@ -1053,12 +1005,6 @@
                 "imagen": "610c87fb5435c0.95972979.png",
                 "activo": "SI",
                 "orden": 21
-            },
-            {
-                "id": "610c87fb698984.47057181",
-                "imagen": "610c87fb698984.47057181.png",
-                "activo": "SI",
-                "orden": 20
             }
         ]
     },
@@ -1599,6 +1545,23 @@
                 "id": "610e8ca1a652d0.37688047",
                 "orden": 1,
                 "imagen": "610e8ca1a652d0.37688047.png",
+                "activo": "SI"
+            }
+        ]
+    },
+    {
+        "id": "61218bac4ab7e",
+        "encabezado": "\u00d3rgano Superior de Fiscalizaci\u00f3n del Estado - App m\u00f3vil oficial del OSFE (Colaboraci\u00f3n)",
+        "titulo": "App m\u00f3vil oficial del OSFE",
+        "subtitulo": "AGOSTO 2021",
+        "descripcion": "<p class=\"text-center\"><a href=\"https:\/\/play.google.com\/store\/apps\/details?id=com.osfetabascogobmx.tesken&hl=es_MX\" target=\"blank\"><strong>CLICK PARA VER APP M&Oacute;VIL OFICIAL DEL OSFE<\/strong><\/a><\/p>\r\n",
+        "orden": 14,
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "6121907b980a89.55288565",
+                "orden": 1,
+                "imagen": "6121907b980a89.55288565.png",
                 "activo": "SI"
             }
         ]

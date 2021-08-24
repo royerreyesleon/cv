@@ -46,5 +46,13 @@
         "icono": "fab fa-linkedin-in",
         "orden": 3,
         "activo": "SI"
+    },
+    {
+        "id": "6121948e87807",
+        "url": "https:\/\/royerreyesleon.github.io\/cv\/assets\/CV-ROYER-REYES-LEON.pdf",
+        "nombre": "CV",
+        "icono": "far fa-file-pdf",
+        "orden": 7,
+        "activo": "SI"
     }
 ]
