@@ -1,0 +1,537 @@
+[
+    {
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "JAVASCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Framework YII2"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 4.3"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery 3.4"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "PHP CURL"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "PostgreSQL"
+                },
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                },
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "SQL SERVER"
+                }
+            ]
+        },
+        "id": "610d457330d6d",
+        "imagenes": [
+            {
+                "id": "6127dae18c40d6.67297069",
+                "orden": 1,
+                "imagen": "6127dae18c40d6.67297069.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127dae61d6e93.40485207",
+                "orden": 2,
+                "imagen": "6127dae61d6e93.40485207.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127daea8cb136.96507815",
+                "orden": 3,
+                "imagen": "6127daea8cb136.96507815.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127daefa60976.46973804",
+                "orden": 4,
+                "imagen": "6127daefa60976.46973804.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127daf4d588a4.01863701",
+                "orden": 5,
+                "imagen": "6127daf4d588a4.01863701.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127daf9583d43.05337777",
+                "orden": 6,
+                "imagen": "6127daf9583d43.05337777.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127dafd595744.05263621",
+                "orden": 7,
+                "imagen": "6127dafd595744.05263621.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127db02767220.77167865",
+                "orden": 8,
+                "imagen": "6127db02767220.77167865.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127db084a4178.90588170",
+                "orden": 9,
+                "imagen": "6127db084a4178.90588170.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127db0c9a1656.27324254",
+                "orden": 10,
+                "imagen": "6127db0c9a1656.27324254.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127db1197bbd6.14232005",
+                "orden": 11,
+                "imagen": "6127db1197bbd6.14232005.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127db1cbf24d9.55796259",
+                "orden": 12,
+                "imagen": "6127db1cbf24d9.55796259.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127db23d71795.73560717",
+                "orden": 13,
+                "imagen": "6127db23d71795.73560717.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "API REST FULL - YII2",
+        "titulo": "API REST FULL - YII2",
+        "subtitulo": ".",
+        "descripcion": "<p>API desde el framework YII2, y una aplicaci&oacute;n consumiendo la API con los verbos GET, POST, PUT y DELETE. CURL&nbsp;es un m&eacute;todo de peticion http y su funcion es&nbsp;hacer peticiones entre servidores, en este ejemplo usamos los verbos GET y POST.<br \/>\r\n<br \/>\r\nProporciona datos a aplicaciones de Android, React, Angular, Ionic que se alimentan de API&#39;s.<\/p>\r\n",
+        "orden": 5,
+        "activo": "SI"
+    },
+    {
+        "id": "610d476f96976",
+        "imagenes": [
+            {
+                "id": "6127d961ce1391.80899833",
+                "orden": 1,
+                "imagen": "6127d961ce1391.80899833.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d961da1074.41261245",
+                "orden": 2,
+                "imagen": "6127d961da1074.41261245.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d961eb6685.92581263",
+                "orden": 3,
+                "imagen": "6127d961eb6685.92581263.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d9620bd6c1.17220409",
+                "orden": 4,
+                "imagen": "6127d9620bd6c1.17220409.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d96e3c4737.45858416",
+                "orden": 5,
+                "imagen": "6127d96e3c4737.45858416.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d973c24c28.67902433",
+                "orden": 6,
+                "imagen": "6127d973c24c28.67902433.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d97a4b5024.88099769",
+                "orden": 7,
+                "imagen": "6127d97a4b5024.88099769.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d97fe5b641.55868716",
+                "orden": 8,
+                "imagen": "6127d97fe5b641.55868716.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d98df21ce9.98721543",
+                "orden": 9,
+                "imagen": "6127d98df21ce9.98721543.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d992beb869.47736598",
+                "orden": 10,
+                "imagen": "6127d992beb869.47736598.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d997bb7057.80896304",
+                "orden": 11,
+                "imagen": "6127d997bb7057.80896304.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d99c9a8e91.88447180",
+                "orden": 12,
+                "imagen": "6127d99c9a8e91.88447180.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d9a3788992.51394506",
+                "orden": 13,
+                "imagen": "6127d9a3788992.51394506.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d9a9a8a5a3.95107146",
+                "orden": 14,
+                "imagen": "6127d9a9a8a5a3.95107146.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d9ae60ab15.22673072",
+                "orden": 15,
+                "imagen": "6127d9ae60ab15.22673072.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d9b2da7aa3.46557867",
+                "orden": 16,
+                "imagen": "6127d9b2da7aa3.46557867.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d9b93e2538.09365320",
+                "orden": 17,
+                "imagen": "6127d9b93e2538.09365320.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d9bfe0a900.53732625",
+                "orden": 18,
+                "imagen": "6127d9bfe0a900.53732625.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d9c6b140d3.98224619",
+                "orden": 19,
+                "imagen": "6127d9c6b140d3.98224619.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Buscar En Bases De Datos",
+        "titulo": "Buscar En Bases De Datos",
+        "subtitulo": ".",
+        "descripcion": "<p>Buscar o Filtrar en diferentes bases de datos (POSTGRESQL, MYSQL, CSV. EXCEL, TXT) a la misma vez por la matricula del alumno, si tiene adeudo, insertar datos en una base de datos de MYQSL.<\/p>\r\n",
+        "orden": 4,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "JAVASCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 4.3"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "PHP Excel 1.8"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "PostgreSQL"
+                },
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                },
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "CSV"
+                },
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "EXCEL"
+                },
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "TXT"
+                }
+            ]
+        }
+    },
+    {
+        "id": "610d49f1edeca",
+        "imagenes": [
+            {
+                "id": "6127d8786e9c91.10844912",
+                "orden": 1,
+                "imagen": "6127d8786e9c91.10844912.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d87f4d01f6.56838579",
+                "orden": 2,
+                "imagen": "6127d87f4d01f6.56838579.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d88493bf08.68142075",
+                "orden": 3,
+                "imagen": "6127d88493bf08.68142075.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Generador Congruencial Mixto",
+        "titulo": "Generador Congruencial Mixto",
+        "subtitulo": ".",
+        "descripcion": "<p>Aplicaci&oacute;n de un Generador Congruencial Mixto para la Generaci&oacute;n de los N&uacute;meros Pseudoaleatorios. Es importante que muestre en pantalla el per&iacute;odo que empieza a repetir los valores el Generador.<br \/>\r\n<br \/>\r\nLos par&aacute;metros que se necesitan de entrada son los siguientes;<br \/>\r\nXo= La semilla(X&gt;0), a = EL multiplicador(a&gt;0), c= Constante aditiva (c&gt;0), m = M&oacute;dulo (m&gt;Xo, m&gt;a, y m &gt;c).<\/p>\r\n",
+        "orden": 3,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "JAVASCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 4.3"
+                }
+            ]
+        }
+    },
+    {
+        "id": "610d4cb56e26f",
+        "imagenes": [
+            {
+                "id": "6127d77ad50de1.22125236",
+                "orden": 1,
+                "imagen": "6127d77ad50de1.22125236.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d7813a3037.52435208",
+                "orden": 2,
+                "imagen": "6127d7813a3037.52435208.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d786de58a4.03459104",
+                "orden": 3,
+                "imagen": "6127d786de58a4.03459104.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d78c525496.53128526",
+                "orden": 4,
+                "imagen": "6127d78c525496.53128526.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d793686297.77263248",
+                "orden": 5,
+                "imagen": "6127d793686297.77263248.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d798dba401.21179832",
+                "orden": 6,
+                "imagen": "6127d798dba401.21179832.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d7a1ed5054.77122049",
+                "orden": 7,
+                "imagen": "6127d7a1ed5054.77122049.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d7a6da73e6.50519158",
+                "orden": 8,
+                "imagen": "6127d7a6da73e6.50519158.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d7acecfd23.71868217",
+                "orden": 9,
+                "imagen": "6127d7acecfd23.71868217.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d7b25e4656.19663534",
+                "orden": 10,
+                "imagen": "6127d7b25e4656.19663534.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d7b8174040.50514595",
+                "orden": 11,
+                "imagen": "6127d7b8174040.50514595.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Excel Masivo PostgreSQL",
+        "titulo": "Excel Masivo PostgreSQL",
+        "subtitulo": ".",
+        "descripcion": "<p>Capturando los datos de un archivo excel (.xls) y almacenando en&nbsp;base de datos PostgreSQL.<\/p>\r\n",
+        "orden": 2,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 4"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "PHP Excel 1.8"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "PostgreSQL"
+                }
+            ]
+        }
+    },
+    {
+        "id": "61218bac4ab7e",
+        "imagenes": [
+            {
+                "id": "6127d556735f42.84059403",
+                "orden": 1,
+                "imagen": "6127d556735f42.84059403.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d55cca0cc8.89146478",
+                "orden": 2,
+                "imagen": "6127d55cca0cc8.89146478.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d56226d031.15358810",
+                "orden": 3,
+                "imagen": "6127d56226d031.15358810.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d56805b8a1.19244574",
+                "orden": 4,
+                "imagen": "6127d56805b8a1.19244574.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d56ec94a37.64466778",
+                "orden": 5,
+                "imagen": "6127d56ec94a37.64466778.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d578023635.46027805",
+                "orden": 6,
+                "imagen": "6127d578023635.46027805.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d57e19aff0.41579036",
+                "orden": 7,
+                "imagen": "6127d57e19aff0.41579036.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d583780243.51461455",
+                "orden": 8,
+                "imagen": "6127d583780243.51461455.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127d5893c9580.14395158",
+                "orden": 9,
+                "imagen": "6127d5893c9580.14395158.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Excel Masivo MySQL",
+        "titulo": "Excel Masivo MySQL",
+        "subtitulo": ".",
+        "descripcion": "<p>Capturando los datos de un archivo excel (.xls) y almacenando en&nbsp;base de datos MySQL.<\/p>\r\n",
+        "orden": 1,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 4"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "PHP Excel 1.8"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                }
+            ]
+        }
+    }
+]

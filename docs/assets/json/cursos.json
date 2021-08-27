@@ -1,0 +1,1683 @@
+[
+    {
+        "id": "6100877a88e3d",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JavaScript"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 3.2.0"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery 2.0.3"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                }
+            ]
+        },
+        "imagenes": [
+            {
+                "id": "6127fdeb075e86.37001007",
+                "orden": 1,
+                "imagen": "6127fdeb075e86.37001007.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fdefa3b5a6.60191314",
+                "orden": 2,
+                "imagen": "6127fdefa3b5a6.60191314.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fdf59a6d69.19094889",
+                "orden": 3,
+                "imagen": "6127fdf59a6d69.19094889.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fdfa535571.18559557",
+                "orden": 4,
+                "imagen": "6127fdfa535571.18559557.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "C\u00f3digo Wolf - Chat Ajax",
+        "titulo": "C\u00f3digo Wolf - Chat Ajax",
+        "subtitulo": ".",
+        "descripcion": "<p>Como hacer un CHAT en PHP MYSQL AJAX. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/user\/ProgramandoBrothers\" target=\"_blank\">C&oacute;digo Wolf<\/a><\/p>\r\n",
+        "orden": 2,
+        "activo": "SI"
+    },
+    {
+        "id": "6100860e9aea5",
+        "imagenes": [
+            {
+                "id": "6127fcee928592.71176761",
+                "orden": 1,
+                "imagen": "6127fcee928592.71176761.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fcf3761b19.64725325",
+                "orden": 2,
+                "imagen": "6127fcf3761b19.64725325.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fcf9a60781.98464307",
+                "orden": 3,
+                "imagen": "6127fcf9a60781.98464307.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fcfe488ac0.57762559",
+                "orden": 4,
+                "imagen": "6127fcfe488ac0.57762559.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd31207634.16378467",
+                "orden": 5,
+                "imagen": "6127fd31207634.16378467.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd383b6cb2.54109987",
+                "orden": 6,
+                "imagen": "6127fd383b6cb2.54109987.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd3fdb0b08.52645412",
+                "orden": 7,
+                "imagen": "6127fd3fdb0b08.52645412.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd454ec452.51937296",
+                "orden": 8,
+                "imagen": "6127fd454ec452.51937296.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd4ab890a7.19046297",
+                "orden": 9,
+                "imagen": "6127fd4ab890a7.19046297.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd50ad9047.34177590",
+                "orden": 10,
+                "imagen": "6127fd50ad9047.34177590.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd56b39be8.97282694",
+                "orden": 11,
+                "imagen": "6127fd56b39be8.97282694.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd5be31c40.44308108",
+                "orden": 12,
+                "imagen": "6127fd5be31c40.44308108.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd74a01a52.17340421",
+                "orden": 13,
+                "imagen": "6127fd74a01a52.17340421.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd7d54c5a6.93417358",
+                "orden": 14,
+                "imagen": "6127fd7d54c5a6.93417358.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd8522ca28.32955556",
+                "orden": 15,
+                "imagen": "6127fd8522ca28.32955556.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127fd8c2b6b94.98375514",
+                "orden": 16,
+                "imagen": "6127fd8c2b6b94.98375514.png",
+                "activo": "SI"
+            }
+        ],
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JavaScript"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 3.3.6"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery 1.12"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery Datatable"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery Datatable HTML Buttons Export EXCEL, CSV, PDF."
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Font Awesome 4.4.0"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL \/ Maria DB"
+                }
+            ]
+        },
+        "encabezado": "C\u00f3digo Wolf - Data Tables JQuery",
+        "titulo": "C\u00f3digo Wolf - Data Tables JQuery",
+        "subtitulo": ".",
+        "descripcion": "<p>DATATABLES JQUERY PHP MYSQL. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/user\/ProgramandoBrothers\" target=\"_blank\">C&oacute;digo Wolf<\/a><\/p>\r\n",
+        "orden": 1,
+        "activo": "SI"
+    },
+    {
+        "id": "6109fffc9890c",
+        "imagenes": [
+            {
+                "id": "6127ff503ae6a5.29791611",
+                "orden": 1,
+                "imagen": "6127ff503ae6a5.29791611.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff5582b568.15204064",
+                "orden": 2,
+                "imagen": "6127ff5582b568.15204064.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff59c9b7e0.11788803",
+                "orden": 3,
+                "imagen": "6127ff59c9b7e0.11788803.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff5de0add9.40673289",
+                "orden": 4,
+                "imagen": "6127ff5de0add9.40673289.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff62b96aa1.72300670",
+                "orden": 5,
+                "imagen": "6127ff62b96aa1.72300670.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff671cc929.72826117",
+                "orden": 6,
+                "imagen": "6127ff671cc929.72826117.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff6cb4a153.74539095",
+                "orden": 7,
+                "imagen": "6127ff6cb4a153.74539095.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff722a4da6.02878997",
+                "orden": 8,
+                "imagen": "6127ff722a4da6.02878997.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff77b50ff3.54648664",
+                "orden": 9,
+                "imagen": "6127ff77b50ff3.54648664.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff7cd323d3.26190448",
+                "orden": 10,
+                "imagen": "6127ff7cd323d3.26190448.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff81dd0506.72433379",
+                "orden": 11,
+                "imagen": "6127ff81dd0506.72433379.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff87109e00.99205224",
+                "orden": 12,
+                "imagen": "6127ff87109e00.99205224.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff8fe26301.89661693",
+                "orden": 13,
+                "imagen": "6127ff8fe26301.89661693.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff95c24903.11958904",
+                "orden": 14,
+                "imagen": "6127ff95c24903.11958904.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ff9aa85de8.60403571",
+                "orden": 15,
+                "imagen": "6127ff9aa85de8.60403571.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6127ffa07e7ae0.59659832",
+                "orden": 16,
+                "imagen": "6127ffa07e7ae0.59659832.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Tuntoriales C\u00f3digo - Red Social Facebook",
+        "titulo": "Tuntoriales C\u00f3digo - Red Social Facebook",
+        "subtitulo": ".",
+        "descripcion": "<p>RED SOCIAL FACEBOOK EN PHP\/JAVASCRIPT Y MYSQL. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCrjKA0BQkh2sv2MkGLXxy7Q\" target=\"_blank\">TUNTORIALES C&Oacute;DIGO<\/a><\/p>\r\n",
+        "orden": 3,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JavaScript"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Admin LTE 2"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 3.3.7"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery 1.9"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery JS Scroll"
+                }
+            ]
+        }
+    },
+    {
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JavaScript"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plantilla Instagram"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery"
+                }
+            ],
+            "Bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                }
+            ]
+        },
+        "id": "610a0754f3445",
+        "imagenes": [
+            {
+                "id": "61280039511b40.29113371",
+                "orden": 1,
+                "imagen": "61280039511b40.29113371.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128003def0d15.62256200",
+                "orden": 2,
+                "imagen": "6128003def0d15.62256200.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612800434eae02.78982794",
+                "orden": 3,
+                "imagen": "612800434eae02.78982794.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61280048060288.01958028",
+                "orden": 4,
+                "imagen": "61280048060288.01958028.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128004cd63865.50699954",
+                "orden": 5,
+                "imagen": "6128004cd63865.50699954.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612800513e2b18.51365532",
+                "orden": 6,
+                "imagen": "612800513e2b18.51365532.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612800559d7714.40841525",
+                "orden": 7,
+                "imagen": "612800559d7714.40841525.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128005b2438e2.09133302",
+                "orden": 8,
+                "imagen": "6128005b2438e2.09133302.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128005fe3b6c5.38408381",
+                "orden": 9,
+                "imagen": "6128005fe3b6c5.38408381.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61280064322473.38393825",
+                "orden": 10,
+                "imagen": "61280064322473.38393825.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612800684c30c7.78474045",
+                "orden": 11,
+                "imagen": "612800684c30c7.78474045.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128006d9b2d20.50220544",
+                "orden": 12,
+                "imagen": "6128006d9b2d20.50220544.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61280076391ef9.49390247",
+                "orden": 13,
+                "imagen": "61280076391ef9.49390247.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128007b9b77f4.14427580",
+                "orden": 14,
+                "imagen": "6128007b9b77f4.14427580.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128007fb73be8.27507558",
+                "orden": 15,
+                "imagen": "6128007fb73be8.27507558.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61280084a8f487.12787019",
+                "orden": 16,
+                "imagen": "61280084a8f487.12787019.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128008b94c278.25390897",
+                "orden": 17,
+                "imagen": "6128008b94c278.25390897.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61280091291b37.77047909",
+                "orden": 18,
+                "imagen": "61280091291b37.77047909.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Tuntoriales C\u00f3digo - Red Social Instagram",
+        "titulo": "Tuntoriales C\u00f3digo - Red Social Instagram",
+        "subtitulo": ".",
+        "descripcion": "<p>RED SOCIAL INSTAGRAM EN PHP\/JAVASCRIPT Y MYSQL. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCrjKA0BQkh2sv2MkGLXxy7Q\" target=\"_blank\">TUNTORIALES C&Oacute;DIGO<\/a><\/p>\r\n",
+        "orden": 4,
+        "activo": "SI"
+    },
+    {
+        "herramientas": {
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "HTML5"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 4.0.0"
+                }
+            ]
+        },
+        "id": "610a99d090ae9",
+        "imagenes": [
+            {
+                "id": "61284e7fbd1bc2.18817874",
+                "orden": 1,
+                "imagen": "61284e7fbd1bc2.18817874.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": " Bluuweb - Bootstrap 4 - Cards",
+        "titulo": " Bluuweb - Bootstrap 4 - Cards",
+        "subtitulo": ".",
+        "descripcion": "<p>Bootstrap 4 - Cards. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/user\/Bluuweb\" target=\"_blank\">Bluuweb<\/a><\/p>\r\n",
+        "orden": 5,
+        "activo": "SI"
+    },
+    {
+        "herramientas": {
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "HTML5"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 4.0.0"
+                }
+            ]
+        },
+        "id": "610becd6c3e09",
+        "imagenes": [
+            {
+                "id": "61284ed619efd6.01411335",
+                "orden": 1,
+                "imagen": "61284ed619efd6.01411335.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61284ed9df9409.82521063",
+                "orden": 2,
+                "imagen": "61284ed9df9409.82521063.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61284ede4e27d8.99576754",
+                "orden": 3,
+                "imagen": "61284ede4e27d8.99576754.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Bluuweb - Bootstrap 4 - Colors",
+        "titulo": "Bluuweb - Bootstrap 4 - Colors",
+        "subtitulo": ".",
+        "descripcion": "<p>Bootstrap 4 - Colors. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/user\/Bluuweb\" target=\"_blank\">Bluuweb<\/a><\/p>\r\n",
+        "orden": 6,
+        "activo": "SI"
+    },
+    {
+        "herramientas": {
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "HTML5"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 4.0.0"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Plugin JS - mooth-scroll v10.2.1"
+                }
+            ]
+        },
+        "id": "610bf2169a445",
+        "imagenes": [
+            {
+                "id": "612850860db557.00817747",
+                "orden": 1,
+                "imagen": "612850860db557.00817747.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612850896375f3.82721568",
+                "orden": 2,
+                "imagen": "612850896375f3.82721568.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128508c6be321.51789937",
+                "orden": 3,
+                "imagen": "6128508c6be321.51789937.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128508fcd7fd7.85153625",
+                "orden": 4,
+                "imagen": "6128508fcd7fd7.85153625.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Bluuweb - Bootstrap 4 - Smooth Scroll",
+        "titulo": "Bluuweb - Bootstrap 4 - Smooth Scroll",
+        "subtitulo": ".",
+        "descripcion": "<p>Bootstrap 4 - Smooth Scroll. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/user\/Bluuweb\" target=\"_blank\">Bluuweb<\/a><\/p>\r\n",
+        "orden": 7,
+        "activo": "SI"
+    },
+    {
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JavaScript"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "AngularJS v1.5.0"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap v3.3.5"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                }
+            ]
+        },
+        "id": "610c8220f309c",
+        "imagenes": [
+            {
+                "id": "6128511a332eb6.56811079",
+                "imagen": "6128511a332eb6.56811079.png",
+                "activo": "SI",
+                "orden": 1
+            },
+            {
+                "id": "6128511a4352d6.22641910",
+                "imagen": "6128511a4352d6.22641910.png",
+                "activo": "SI",
+                "orden": 2
+            },
+            {
+                "id": "6128511a1f8866.63365969",
+                "imagen": "6128511a1f8866.63365969.png",
+                "activo": "SI",
+                "orden": 3
+            },
+            {
+                "id": "612851205a3b32.91301399",
+                "imagen": "612851205a3b32.91301399.png",
+                "activo": "SI",
+                "orden": 4
+            },
+            {
+                "id": "61285139e38095.15919432",
+                "orden": 5,
+                "imagen": "61285139e38095.15919432.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128513d3868e5.65429649",
+                "orden": 6,
+                "imagen": "6128513d3868e5.65429649.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285141280771.00106051",
+                "orden": 7,
+                "imagen": "61285141280771.00106051.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612851447f9b08.84583318",
+                "orden": 8,
+                "imagen": "612851447f9b08.84583318.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612851485a3b39.39652436",
+                "orden": 9,
+                "imagen": "612851485a3b39.39652436.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128514bece2f1.91208525",
+                "orden": 10,
+                "imagen": "6128514bece2f1.91208525.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128514eb42951.34964389",
+                "orden": 11,
+                "imagen": "6128514eb42951.34964389.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285151cb5c02.84122515",
+                "orden": 12,
+                "imagen": "61285151cb5c02.84122515.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285156ae54f2.33057861",
+                "orden": 13,
+                "imagen": "61285156ae54f2.33057861.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128515a4d28e6.63189727",
+                "orden": 14,
+                "imagen": "6128515a4d28e6.63189727.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128515dc99fb6.29873657",
+                "orden": 15,
+                "imagen": "6128515dc99fb6.29873657.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128516196c457.80884381",
+                "orden": 16,
+                "imagen": "6128516196c457.80884381.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612851661ec650.66204227",
+                "orden": 17,
+                "imagen": "612851661ec650.66204227.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128516a3d41e3.15072825",
+                "orden": 18,
+                "imagen": "6128516a3d41e3.15072825.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285176d14cb4.00725452",
+                "orden": 19,
+                "imagen": "61285176d14cb4.00725452.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128517c74bfc8.20525867",
+                "orden": 20,
+                "imagen": "6128517c74bfc8.20525867.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612851bd3a8d84.13042307",
+                "orden": 21,
+                "imagen": "612851bd3a8d84.13042307.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Fernando Herrera - Aplicaci\u00f3n Angular - Factura",
+        "titulo": "Fernando Herrera - Aplicaci\u00f3n Angular - Factura",
+        "subtitulo": ".",
+        "descripcion": "<p>Aplicaci&oacute;n Angular, inicio de sesi&oacute;n, validaci&oacute;n de campos, gesti&oacute;n de clientes, calcular precio automatizado, generar factura. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCuaPTYj15JSkETGnEseaFFg\/playlists\" target=\"_blank\">Fernando Herrera<\/a><\/p>\r\n",
+        "orden": 8,
+        "activo": "SI"
+    },
+    {
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JavaScript"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery 2.2.0"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery UI"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery Datatables"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery Fancybox"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Sweet Alert"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap v3.3.6"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                }
+            ]
+        },
+        "id": "610ca8ff13bbb",
+        "imagenes": [
+            {
+                "id": "612852b61a41a7.66277899",
+                "imagen": "612852b61a41a7.66277899.png",
+                "activo": "SI",
+                "orden": 1
+            },
+            {
+                "id": "612852b65630e6.50213405",
+                "imagen": "612852b65630e6.50213405.png",
+                "activo": "SI",
+                "orden": 2
+            },
+            {
+                "id": "612852b643be60.34192516",
+                "imagen": "612852b643be60.34192516.png",
+                "activo": "SI",
+                "orden": 3
+            },
+            {
+                "id": "612852b62f85d3.42168809",
+                "imagen": "612852b62f85d3.42168809.png",
+                "activo": "SI",
+                "orden": 4
+            },
+            {
+                "id": "612852ca90be18.62170867",
+                "imagen": "612852ca90be18.62170867.png",
+                "activo": "SI",
+                "orden": 5
+            },
+            {
+                "id": "612852ca9d9158.62213692",
+                "imagen": "612852ca9d9158.62213692.png",
+                "activo": "SI",
+                "orden": 6
+            },
+            {
+                "id": "612852cab3a9a6.46474892",
+                "imagen": "612852cab3a9a6.46474892.png",
+                "activo": "SI",
+                "orden": 7
+            },
+            {
+                "id": "612852cac18d20.22585368",
+                "imagen": "612852cac18d20.22585368.png",
+                "activo": "SI",
+                "orden": 8
+            },
+            {
+                "id": "612852d5889079.33421181",
+                "imagen": "612852d5889079.33421181.png",
+                "activo": "SI",
+                "orden": 9
+            },
+            {
+                "id": "612852d57dad51.91553671",
+                "imagen": "612852d57dad51.91553671.png",
+                "activo": "SI",
+                "orden": 10
+            },
+            {
+                "id": "612852d5970904.36221782",
+                "imagen": "612852d5970904.36221782.png",
+                "activo": "SI",
+                "orden": 11
+            },
+            {
+                "id": "612852d5aaffc3.37238656",
+                "imagen": "612852d5aaffc3.37238656.png",
+                "activo": "SI",
+                "orden": 12
+            },
+            {
+                "id": "612852ea1f50b3.82339316",
+                "imagen": "612852ea1f50b3.82339316.png",
+                "activo": "SI",
+                "orden": 14
+            },
+            {
+                "id": "612852ea2fd695.43523517",
+                "imagen": "612852ea2fd695.43523517.png",
+                "activo": "SI",
+                "orden": 13
+            }
+        ],
+        "encabezado": "Tutoriales a tu Alcance - Sistema Gestor De Contenido - CMS",
+        "titulo": "Tutoriales a tu Alcance - Sistema Gestor De Contenido - CMS",
+        "subtitulo": ".",
+        "descripcion": "<p>Tutoriales a tu Alcance - Sistema Gestor De Contenido - CMS<\/p>\r\n",
+        "orden": 9,
+        "activo": "SI"
+    },
+    {
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "PHP"
+                },
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JavaScript"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap Admin LTE 2"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap v3.3.6"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery 2.2.0"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery UI"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery Datatables"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery Fancybox"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Sweet Alert"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "TCPDF"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                }
+            ]
+        },
+        "id": "610d457330d6d",
+        "imagenes": [
+            {
+                "id": "612853851e5e69.91549172",
+                "orden": 1,
+                "imagen": "612853851e5e69.91549172.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853889a7ce4.23201289",
+                "orden": 2,
+                "imagen": "612853889a7ce4.23201289.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128538bd10e65.09060744",
+                "orden": 3,
+                "imagen": "6128538bd10e65.09060744.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128538f253856.50435409",
+                "orden": 4,
+                "imagen": "6128538f253856.50435409.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853923eb266.35858411",
+                "orden": 5,
+                "imagen": "612853923eb266.35858411.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853958245c7.61433468",
+                "orden": 6,
+                "imagen": "612853958245c7.61433468.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285398ba1085.13853697",
+                "orden": 7,
+                "imagen": "61285398ba1085.13853697.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128539c68f8b7.07394554",
+                "orden": 8,
+                "imagen": "6128539c68f8b7.07394554.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853a0ce16c2.25500846",
+                "orden": 9,
+                "imagen": "612853a0ce16c2.25500846.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853a51ad306.05392211",
+                "orden": 10,
+                "imagen": "612853a51ad306.05392211.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853a8afa277.72927923",
+                "orden": 11,
+                "imagen": "612853a8afa277.72927923.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853acdc4c12.61135087",
+                "orden": 12,
+                "imagen": "612853acdc4c12.61135087.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853b415eb96.64114980",
+                "orden": 13,
+                "imagen": "612853b415eb96.64114980.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853b85592a7.36151754",
+                "orden": 14,
+                "imagen": "612853b85592a7.36151754.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853c0dcd793.09193315",
+                "orden": 15,
+                "imagen": "612853c0dcd793.09193315.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853c56959a6.31515690",
+                "orden": 16,
+                "imagen": "612853c56959a6.31515690.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853cd217515.01059516",
+                "orden": 17,
+                "imagen": "612853cd217515.01059516.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853d12f8879.76699488",
+                "orden": 18,
+                "imagen": "612853d12f8879.76699488.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853d6d25992.70995223",
+                "orden": 19,
+                "imagen": "612853d6d25992.70995223.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612853dc18dbf3.69021508",
+                "orden": 20,
+                "imagen": "612853dc18dbf3.69021508.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612854dada8939.16279911",
+                "orden": 21,
+                "imagen": "612854dada8939.16279911.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612854dee0f270.23648645",
+                "orden": 22,
+                "imagen": "612854dee0f270.23648645.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612854e7a89ec4.62628453",
+                "orden": 23,
+                "imagen": "612854e7a89ec4.62628453.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612854ecef7a55.59397038",
+                "orden": 24,
+                "imagen": "612854ecef7a55.59397038.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612854f27ff163.61003171",
+                "orden": 25,
+                "imagen": "612854f27ff163.61003171.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612854f7b889f7.64713187",
+                "orden": 26,
+                "imagen": "612854f7b889f7.64713187.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612854fd4a73b0.03511195",
+                "orden": 27,
+                "imagen": "612854fd4a73b0.03511195.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285501b22143.21954146",
+                "orden": 28,
+                "imagen": "61285501b22143.21954146.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285507c49f26.00408465",
+                "orden": 29,
+                "imagen": "61285507c49f26.00408465.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128550da9e8e8.02754877",
+                "orden": 30,
+                "imagen": "6128550da9e8e8.02754877.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285513a8f118.26565860",
+                "orden": 31,
+                "imagen": "61285513a8f118.26565860.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128551ad261c7.61468408",
+                "orden": 32,
+                "imagen": "6128551ad261c7.61468408.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128552170e288.47689900",
+                "orden": 33,
+                "imagen": "6128552170e288.47689900.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285528604815.90287136",
+                "orden": 34,
+                "imagen": "61285528604815.90287136.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128552dc78484.52016590",
+                "orden": 35,
+                "imagen": "6128552dc78484.52016590.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285534ec76d1.82175572",
+                "orden": 36,
+                "imagen": "61285534ec76d1.82175572.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128553ca16836.25113268",
+                "orden": 37,
+                "imagen": "6128553ca16836.25113268.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Tutoriales a tu Alcance - Sistema Gestor De Contenido - CMS - Admin LTE 2",
+        "titulo": "Tutoriales a tu Alcance - Sistema Gestor De Contenido - CMS - Admin LTE 2",
+        "subtitulo": ".",
+        "descripcion": "<p>Sistema Gestor de Contenido - CMS - Admin LTE 2. Frontend \/ Backend. Gesti&oacute;n de slide, art&iacute;culos, im&aacute;genes, videos, suscriptores, mensajes, reporte. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UC3mOfIKkCJtlSdhsU9y77DA\" target=\"_blank\">Tutoriales a tu Alcance<\/a><\/p>\r\n",
+        "orden": 10,
+        "activo": "SI"
+    },
+    {
+        "id": "610d476f96976",
+        "imagenes": [
+            {
+                "id": "612855b7502cf0.66341014",
+                "orden": 1,
+                "imagen": "612855b7502cf0.66341014.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612855bad9eb84.03763951",
+                "orden": 2,
+                "imagen": "612855bad9eb84.03763951.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612855becd1f25.22036519",
+                "orden": 3,
+                "imagen": "612855becd1f25.22036519.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Fazt Code - Angular CRUD Simple | Aplicaci\u00f3n CRUD en Angular",
+        "titulo": "Fazt Code - Angular CRUD Simple | Aplicaci\u00f3n CRUD en Angular",
+        "subtitulo": ".",
+        "descripcion": "<p>Angular CRUD Simple | Tu primer Aplicaci&oacute;n CRUD en Angular. Aprende a crear una aplicaci&oacute;n de las cuatro operaciones b&aacute;sicas de todo sistemas, tambi&eacute;n conocido como un CRUD. esta aplicaci&oacute;n esta pensada para todas aquellas personas que ya tienen conceptos b&aacute;sicos de Angular y quieren poner a pruebas sus conocimientos creando una aplicaci&oacute;n sencilla. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCMn28O1sQGochG94HdlthbA\" target=\"_blank\">Fazt Code<\/a><\/p>\r\n",
+        "orden": 11,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT - TYPESCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Angular"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap"
+                }
+            ]
+        }
+    },
+    {
+        "id": "610d49f1edeca",
+        "imagenes": [
+            {
+                "id": "6128560e32ece4.74461772",
+                "orden": 1,
+                "imagen": "6128560e32ece4.74461772.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285611646199.54694761",
+                "orden": 2,
+                "imagen": "61285611646199.54694761.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285614bfa179.08891678",
+                "orden": 3,
+                "imagen": "61285614bfa179.08891678.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285617cd09b8.82956450",
+                "orden": 4,
+                "imagen": "61285617cd09b8.82956450.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128561b5669e7.98817392",
+                "orden": 5,
+                "imagen": "6128561b5669e7.98817392.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128561e0c5449.98669127",
+                "orden": 6,
+                "imagen": "6128561e0c5449.98669127.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Fazt Code - Angular y LocalStorage",
+        "titulo": "Fazt Code - Angular y LocalStorage",
+        "subtitulo": ".",
+        "descripcion": "<p>Angular y LocalStorage. Aprende a crear una Aplicaci&oacute;n de Angular que almacena los datos en la memoria del navegador. En este ejemplo crearemos un CRUD de Angular junto a la API Localstorage de html5. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCMn28O1sQGochG94HdlthbA\" target=\"_blank\">Fazt Code<\/a><\/p>\r\n",
+        "orden": 12,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT - TYPESCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Angular"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "LOCALSTORAGE"
+                }
+            ]
+        }
+    },
+    {
+        "id": "610d4cb56e26f",
+        "imagenes": [
+            {
+                "id": "612856642e2609.57363255",
+                "orden": 1,
+                "imagen": "612856642e2609.57363255.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612856674ed425.62608532",
+                "orden": 2,
+                "imagen": "612856674ed425.62608532.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128566a851036.77363522",
+                "orden": 3,
+                "imagen": "6128566a851036.77363522.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128566d860115.61297758",
+                "orden": 4,
+                "imagen": "6128566d860115.61297758.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285672026339.09285535",
+                "orden": 5,
+                "imagen": "61285672026339.09285535.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285674b70660.35321388",
+                "orden": 6,
+                "imagen": "61285674b70660.35321388.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612856780f01e7.04377387",
+                "orden": 7,
+                "imagen": "612856780f01e7.04377387.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128567b086bf2.25532007",
+                "orden": 8,
+                "imagen": "6128567b086bf2.25532007.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Fazt Code - Angular 6 Firestore App",
+        "titulo": "Fazt Code - Angular 6 Firestore App",
+        "subtitulo": ".",
+        "descripcion": "<p>Angular 6 Firestore App. Aprende a crear una aplicaci&oacute;n de Angular 6 utilizando a Firestore como base de datos. Firestore es un servicio de Google, que puedes empezar a usar gratuitamente los datos de tus aplicaci&oacute;nes Frontend, en este v&iacute;deo crearemos un CRUD de angular 6 y firestore, que simula las tareas m&aacute;s comunes de una aplicaci&oacute;n web. Crearemos todo el proyecto desde cero, utilizando angular-cli, typescript, componentes servicios y el framework de CSS Bootstrap4. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCMn28O1sQGochG94HdlthbA\" target=\"_blank\">Fazt Code<\/a><\/p>\r\n",
+        "orden": 13,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT - TYPESCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Angular 6"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "FIRESTORE"
+                }
+            ]
+        }
+    },
+    {
+        "id": "61218bac4ab7e",
+        "imagenes": [
+            {
+                "id": "612856c1b68cb5.28600547",
+                "orden": 1,
+                "imagen": "612856c1b68cb5.28600547.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612856c475db09.36299459",
+                "orden": 2,
+                "imagen": "612856c475db09.36299459.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612856c7c0a481.46791495",
+                "orden": 3,
+                "imagen": "612856c7c0a481.46791495.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Fazt Code - Angular, Aplicaci\u00f3n Del Clima Con OpenWeatherMap API",
+        "titulo": "Fazt Code - Angular, Aplicaci\u00f3n Del Clima Con OpenWeatherMap API",
+        "subtitulo": ".",
+        "descripcion": "<p>Angular, Aplicaci&oacute;n del clima con OpenWeatherMap API. Aprende a crear una aplicaci&oacute;n del climma usando Angular como framework de javascript para el frontend y la API del clima llamada OpenWeatherMap. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCMn28O1sQGochG94HdlthbA\" target=\"_blank\">Fazt Code<\/a><\/p>\r\n",
+        "orden": 14,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT - TYPESCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Angular 6"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "API"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6127e94690be0",
+        "encabezado": "Fazt Code - Desarrollo y despliegue de aplicaci\u00f3n Angular de votos",
+        "titulo": "Fazt Code - Desarrollo y despliegue de aplicaci\u00f3n Angular de votos",
+        "subtitulo": ".",
+        "descripcion": "<p>Desarrollo y despliegue de Aplicaci&oacute;n Angular, Angular Aplicaci&oacute;n de Votos. Este ejemplo de Angular, tiene como objetivo practicar los conceptos basicos de Angular, como crear componentes, crear clases, metodos y escribir codigo de typescript, ademas de estilizar la aplicaci&oacute;n utilizando un framework de css, como lo es bootstrap4 y finalmente desplegando la app en un servidor real. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCMn28O1sQGochG94HdlthbA\" target=\"_blank\">Fazt Code<\/a><\/p>\r\n",
+        "orden": 15,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT - TYPESCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Angular 6"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap"
+                }
+            ]
+        },
+        "imagenes": [
+            {
+                "id": "6128570685f013.28902806",
+                "orden": 1,
+                "imagen": "6128570685f013.28902806.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285709a11fc7.57168015",
+                "orden": 2,
+                "imagen": "61285709a11fc7.57168015.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128570c3f3dd6.40302370",
+                "orden": 3,
+                "imagen": "6128570c3f3dd6.40302370.png",
+                "activo": "SI"
+            }
+        ]
+    },
+    {
+        "id": "6127e9a10cb42",
+        "encabezado": "Fazt Code - Ionic4 | Aplicaci\u00f3n Simple en JavaScript puro",
+        "titulo": "Fazt Code - Ionic4 | Aplicaci\u00f3n Simple en JavaScript puro",
+        "subtitulo": ".",
+        "descripcion": "<p>Ionic4 | Aplicaci&oacute;n simple en Javascript Puro. Este es un ejemplo pr&aacute;ctico de Ionic4 usando Vanilla Javascript, es decir que desarrollaremos una aplicaci&oacute;n m&oacute;vil usando tan solo Javascript sin ning&uacute;n framework. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCMn28O1sQGochG94HdlthbA\" target=\"_blank\">Fazt Code<\/a><\/p>\r\n",
+        "orden": 16,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT - TYPESCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Ionic"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "ionic bundle"
+                }
+            ]
+        },
+        "imagenes": [
+            {
+                "id": "6128574e87b972.13160623",
+                "orden": 1,
+                "imagen": "6128574e87b972.13160623.png",
+                "activo": "SI"
+            },
+            {
+                "id": "612857517c9f17.43954404",
+                "orden": 2,
+                "imagen": "612857517c9f17.43954404.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285754e737f0.10889230",
+                "orden": 3,
+                "imagen": "61285754e737f0.10889230.png",
+                "activo": "SI"
+            },
+            {
+                "id": "61285757d7cc36.73881211",
+                "orden": 4,
+                "imagen": "61285757d7cc36.73881211.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128575bde0d87.37648014",
+                "orden": 5,
+                "imagen": "6128575bde0d87.37648014.png",
+                "activo": "SI"
+            }
+        ]
+    },
+    {
+        "id": "6127e9cfc3fd1",
+        "encabezado": "Fazt Code - Ionic4 & Angular | Curso Pr\u00e1ctico",
+        "titulo": "Fazt Code - Ionic4 & Angular | Curso Pr\u00e1ctico",
+        "subtitulo": ".",
+        "descripcion": "<p>Ionic4 &amp; Angular | Curso Pr&aacute;ctico. Ionic es un framework que permite crear aplicaciones moviles y aplicaciones de escritorio utilizando tecnolog&iacute;a web (HTML, CSS, Javascript y sus frameworks como Angular, Vue, React). Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCMn28O1sQGochG94HdlthbA\" target=\"_blank\">Fazt Code<\/a><\/p>\r\n",
+        "orden": 17,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JAVASCRIPT - TYPESCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Android Studio"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Ionic"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Angular"
+                }
+            ]
+        },
+        "imagenes": [
+            {
+                "id": "612857bcc881f4.43151369",
+                "imagen": "612857bcc881f4.43151369.png",
+                "activo": "SI",
+                "orden": 1
+            },
+            {
+                "id": "612857c3939d37.68726148",
+                "imagen": "612857c3939d37.68726148.png",
+                "activo": "SI",
+                "orden": 2
+            },
+            {
+                "id": "612857c38839b8.56373919",
+                "imagen": "612857c38839b8.56373919.png",
+                "activo": "SI",
+                "orden": 3
+            },
+            {
+                "id": "612857c3a2b2b8.47437469",
+                "imagen": "612857c3a2b2b8.47437469.png",
+                "activo": "SI",
+                "orden": 4
+            },
+            {
+                "id": "612857d39cb696.06177613",
+                "imagen": "612857d39cb696.06177613.png",
+                "activo": "SI",
+                "orden": 5
+            },
+            {
+                "id": "612857d3926b26.13718629",
+                "imagen": "612857d3926b26.13718629.png",
+                "activo": "SI",
+                "orden": 6
+            },
+            {
+                "id": "612857e1c55799.72960188",
+                "imagen": "612857e1c55799.72960188.png",
+                "activo": "SI",
+                "orden": 7
+            },
+            {
+                "id": "612857e58d4467.52275561",
+                "imagen": "612857e58d4467.52275561.png",
+                "activo": "SI",
+                "orden": 8
+            },
+            {
+                "id": "612857ea8ea3d9.85682193",
+                "imagen": "612857ea8ea3d9.85682193.png",
+                "activo": "SI",
+                "orden": 9
+            },
+            {
+                "id": "612857ea993aa4.49286501",
+                "imagen": "612857ea993aa4.49286501.png",
+                "activo": "SI",
+                "orden": 10
+            },
+            {
+                "id": "612857ee6f01d0.68030193",
+                "imagen": "612857ee6f01d0.68030193.png",
+                "activo": "SI",
+                "orden": 11
+            },
+            {
+                "id": "612857ee778e03.98122220",
+                "imagen": "612857ee778e03.98122220.png",
+                "activo": "SI",
+                "orden": 12
+            },
+            {
+                "id": "612857f824bb88.32564751",
+                "imagen": "612857f824bb88.32564751.png",
+                "activo": "SI",
+                "orden": 14
+            },
+            {
+                "id": "612857f82dd4d3.09590769",
+                "imagen": "612857f82dd4d3.09590769.png",
+                "activo": "SI",
+                "orden": 13
+            }
+        ]
+    }
+]
