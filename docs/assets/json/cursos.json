@@ -1679,5 +1679,185 @@
                 "orden": 13
             }
         ]
+    },
+    {
+        "id": "61285e6c4a24c",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "JavaScript"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Framework Laravel 5.5"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "JQuery"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Laravel Collective (Formularios)"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "CKEditor"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "MySQL"
+                }
+            ]
+        },
+        "imagenes": [
+            {
+                "id": "6128e0a6759254.89463075",
+                "imagen": "6128e0a6759254.89463075.png",
+                "activo": "SI",
+                "orden": 1
+            },
+            {
+                "id": "6128e0a6642fb8.66918415",
+                "imagen": "6128e0a6642fb8.66918415.png",
+                "activo": "SI",
+                "orden": 2
+            },
+            {
+                "id": "6128e0a62f94e2.39589527",
+                "imagen": "6128e0a62f94e2.39589527.png",
+                "activo": "SI",
+                "orden": 3
+            },
+            {
+                "id": "6128e0a658a713.52485338",
+                "imagen": "6128e0a658a713.52485338.png",
+                "activo": "SI",
+                "orden": 4
+            },
+            {
+                "id": "6128e0e3e3cb52.96826143",
+                "orden": 5,
+                "imagen": "6128e0e3e3cb52.96826143.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128e0e7ed6e17.14032174",
+                "orden": 6,
+                "imagen": "6128e0e7ed6e17.14032174.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128e0ebc875a3.94955792",
+                "orden": 7,
+                "imagen": "6128e0ebc875a3.94955792.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128e0ef0db9b3.96288050",
+                "orden": 8,
+                "imagen": "6128e0ef0db9b3.96288050.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128e0f44ce791.86356715",
+                "orden": 9,
+                "imagen": "6128e0f44ce791.86356715.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128e0f8794e91.53607112",
+                "orden": 10,
+                "imagen": "6128e0f8794e91.53607112.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128e0fbef8f50.18140596",
+                "orden": 11,
+                "imagen": "6128e0fbef8f50.18140596.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128e1000b3130.18736774",
+                "orden": 12,
+                "imagen": "6128e1000b3130.18736774.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128e117ed8b30.86304672",
+                "orden": 13,
+                "imagen": "6128e117ed8b30.86304672.png",
+                "activo": "SI"
+            },
+            {
+                "id": "6128e11c443558.34647997",
+                "orden": 14,
+                "imagen": "6128e11c443558.34647997.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "Rimorsoft Online | Blog Laravel",
+        "titulo": "Rimorsoft Online | Blog Laravel",
+        "subtitulo": ".",
+        "descripcion": "<p>Sistema Gestor de Contenido (CMS) etiquetas, categor&iacute;as, entradas, control de gesti&oacute;n de la informaci&oacute;n por usuario. Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCRByhHailXC3HqWL2QrYw7w\" target=\"_blank\">Rimorsoft Online<\/a><\/p>\r\n",
+        "orden": 3,
+        "activo": "SI"
+    },
+    {
+        "id": "6128e9fec59f2",
+        "encabezado": " C\u00f3digo Correcto | Widgets Flutter",
+        "titulo": " C\u00f3digo Correcto | Widgets Flutter",
+        "subtitulo": ".",
+        "descripcion": "<p>Flutter es un SDK de c&oacute;digo fuente abierto de desarrollo de aplicaciones m&oacute;viles creado por Google. Suele usarse para desarrollar interfaces de usuario para aplicaciones en Android, iOS y Web as&iacute; como m&eacute;todo primario para crear aplicaciones para Google Fuchsia.\u200b Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCBK9q6sNfGQAp3QCuHz5rRg\" target=\"_blank\">C\u00f3digo Correcto<\/a><\/p>\r\n",
+        "orden": 19,
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "6128ea572cbae8.38516627",
+                "imagen": "6128ea572cbae8.38516627.png",
+                "activo": "SI",
+                "orden": 1
+            },
+            {
+                "id": "6128ea5b3b3ce4.15461232",
+                "imagen": "6128ea5b3b3ce4.15461232.png",
+                "activo": "SI",
+                "orden": 3
+            },
+            {
+                "id": "6128ea5b477315.79115075",
+                "imagen": "6128ea5b477315.79115075.png",
+                "activo": "SI",
+                "orden": 2
+            },
+            {
+                "id": "6128ea5b5dd3c6.16440965",
+                "imagen": "6128ea5b5dd3c6.16440965.png",
+                "activo": "SI",
+                "orden": 4
+            }
+        ],
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fas fa-code",
+                    "texto": "Dart"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Flutter"
+                }
+            ]
+        }
     }
 ]

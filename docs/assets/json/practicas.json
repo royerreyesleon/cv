@@ -533,5 +533,46 @@
                 }
             ]
         }
+    },
+    {
+        "id": "6128e4102999e",
+        "imagenes": [
+            {
+                "id": "6128e4b9798ce5.18425690",
+                "orden": 1,
+                "imagen": "6128e4b9798ce5.18425690.png",
+                "activo": "SI"
+            }
+        ],
+        "encabezado": "ELECTRON | CRUD JSON",
+        "titulo": "ELECTRON | CRUD JSON",
+        "subtitulo": ".",
+        "descripcion": "<p>Electron es un marco para crear aplicaciones de escritorio usando JavaScript, HTML y CSS.&nbsp;Al incorporar&nbsp;<a data-darkreader-inline-color=\"\" href=\"https:\/\/www.chromium.org\/\" rel=\"noopener noreferrer\" style=\"box-sizing: border-box; color: var(--darkreader-text--ifm-link-color); text-decoration: var(--ifm-link-decoration); transition: color var(--ifm-transition-fast) var(--ifm-transition-timing-default); font-weight: var(--ifm-font-weight-bold); --darkreader-inline-color:var(--darkreader-text--darkreader-text--ifm-link-color);\">Chromium<\/a>&nbsp;y&nbsp;<a data-darkreader-inline-color=\"\" href=\"https:\/\/nodejs.org\/\" rel=\"noopener noreferrer\" style=\"box-sizing: border-box; color: var(--darkreader-text--ifm-link-color); text-decoration: var(--ifm-link-decoration); transition: color var(--ifm-transition-fast) var(--ifm-transition-timing-default); font-weight: var(--ifm-font-weight-bold); --darkreader-inline-color:var(--darkreader-text--darkreader-text--ifm-link-color);\">Node.js<\/a>&nbsp;en su binario, Electron le permite mantener una base de c&oacute;digo JavaScript y crear aplicaciones multiplataforma que funcionan en Windows, macOS y Linux, sin necesidad de experiencia en desarrollo nativo.<\/p>\r\n",
+        "orden": 6,
+        "activo": "SI",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-php",
+                    "texto": "JavaScript"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Bootstrap 4.5.3"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "ElectronJS"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "JSON"
+                }
+            ]
+        }
     }
 ]
