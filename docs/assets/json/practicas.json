@@ -7,7 +7,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fab fa-php",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT"
                 }
             ],
@@ -17,7 +17,7 @@
                     "texto": "Framework YII2"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li  fab fa-bootstrap",
                     "texto": "Bootstrap 4.3"
                 },
                 {
@@ -263,13 +263,13 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fab fa-php",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li  fab fa-bootstrap",
                     "texto": "Bootstrap 4.3"
                 },
                 {
@@ -332,13 +332,13 @@
         "herramientas": {
             "lenguajes": [
                 {
-                    "icono": "fa-li fab fa-php",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li  fab fa-bootstrap",
                     "texto": "Bootstrap 4.3"
                 }
             ]
@@ -429,7 +429,7 @@
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li  fab fa-bootstrap",
                     "texto": "Bootstrap 4"
                 },
                 {
@@ -518,7 +518,7 @@
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li  fab fa-bootstrap",
                     "texto": "Bootstrap 4"
                 },
                 {
@@ -553,13 +553,13 @@
         "herramientas": {
             "lenguajes": [
                 {
-                    "icono": "fa-li fab fa-php",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JavaScript"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li  fab fa-bootstrap",
                     "texto": "Bootstrap 4.5.3"
                 },
                 {
@@ -574,5 +574,82 @@
                 }
             ]
         }
+    },
+    {
+        "id": "614a753c18c48",
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-js",
+                    "texto": "TypeScript | JavaScript"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fab fa-angular",
+                    "texto": "Angular"
+                },
+                {
+                    "icono": "fa-li fab fa-bootstrap",
+                    "texto": "Bootstrap"
+                }
+            ],
+            "bases de datos": [
+                {
+                    "icono": "fa-li fa fa-database",
+                    "texto": "LocalStorage | JSON"
+                }
+            ]
+        },
+        "encabezado": "Angular 12 | Carrito de Compras",
+        "titulo": "Angular 12 | Carrito de Compras",
+        "subtitulo": ".",
+        "descripcion": "<p>Componentes, Servicios, Inyecci\u00f3n de Dependencias, Directivas, Enrutamiento<\/p>\r\n\r\n<p class=\"text-center\"><a href=\"https:\/\/royerreyesleon.github.io\/carritocompras\" target=\"blank\"><strong>CLICK PARA VER CARRITO DE COMPRAS<\/strong><\/a><\/p>\r\n",
+        "orden": 7,
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "614a9b9259f607.27396781",
+                "imagen": "614a9b9259f607.27396781.png",
+                "activo": "SI",
+                "orden": 3
+            },
+            {
+                "id": "614a9bc7745c72.95731410",
+                "imagen": "614a9bc7745c72.95731410.png",
+                "activo": "SI",
+                "orden": 4
+            },
+            {
+                "id": "614a9bc78bfc07.00152895",
+                "imagen": "614a9bc78bfc07.00152895.png",
+                "activo": "SI",
+                "orden": 5
+            },
+            {
+                "id": "614a9bc77f0031.07122947",
+                "imagen": "614a9bc77f0031.07122947.png",
+                "activo": "SI",
+                "orden": 6
+            },
+            {
+                "id": "614a9c2930efb1.39422762",
+                "imagen": "614a9c2930efb1.39422762.png",
+                "activo": "SI",
+                "orden": 8
+            },
+            {
+                "id": "614a9c293a17a5.86537805",
+                "imagen": "614a9c293a17a5.86537805.png",
+                "activo": "SI",
+                "orden": 7
+            },
+            {
+                "id": "614a9c2948f1a9.12235328",
+                "imagen": "614a9c2948f1a9.12235328.png",
+                "activo": "SI",
+                "orden": 9
+            }
+        ]
     }
 ]

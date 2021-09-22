@@ -8,13 +8,13 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap 3"
                 },
                 {
@@ -219,7 +219,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT"
                 }
             ],
@@ -270,7 +270,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT"
                 }
             ],
@@ -284,7 +284,7 @@
                     "texto": "JQuery"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap (Plantilla Porto)"
                 },
                 {
@@ -555,7 +555,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT"
                 }
             ],
@@ -569,7 +569,7 @@
                     "texto": "JQuery"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap (Plantilla AdminLTE 2)"
                 },
                 {
@@ -692,7 +692,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT"
                 }
             ],
@@ -706,7 +706,7 @@
                     "texto": "JQuery"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap (Plantilla AdminLTE 3)"
                 },
                 {
@@ -917,7 +917,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT"
                 }
             ],
@@ -931,7 +931,7 @@
                     "texto": "JQuery"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap (Plantilla AdminLTE 2 incluida a mano)"
                 },
                 {
@@ -1016,7 +1016,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT"
                 }
             ],
@@ -1030,7 +1030,7 @@
                     "texto": "JQuery"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap (Plantilla AdminLTE 2 Plugin)"
                 },
                 {
@@ -1419,7 +1419,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT"
                 }
             ],
@@ -1433,7 +1433,7 @@
                     "texto": "JQuery"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap (Plantilla AdminLTE 2 Plugin)"
                 },
                 {

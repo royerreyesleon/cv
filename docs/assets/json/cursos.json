@@ -8,13 +8,13 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JavaScript"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap 3.2.0"
                 },
                 {
@@ -169,13 +169,13 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JavaScript"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap 3.3.6"
                 },
                 {
@@ -322,7 +322,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JavaScript"
                 }
             ],
@@ -332,7 +332,7 @@
                     "texto": "Admin LTE 2"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap 3.3.7"
                 },
                 {
@@ -354,7 +354,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JavaScript"
                 }
             ],
@@ -501,7 +501,7 @@
                     "texto": "HTML5"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap 4.0.0"
                 }
             ]
@@ -530,7 +530,7 @@
                     "texto": "HTML5"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap 4.0.0"
                 }
             ]
@@ -571,7 +571,7 @@
                     "texto": "HTML5"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap 4.0.0"
                 },
                 {
@@ -622,7 +622,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JavaScript"
                 }
             ],
@@ -632,7 +632,7 @@
                     "texto": "AngularJS v1.5.0"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap v3.3.5"
                 }
             ],
@@ -787,7 +787,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JavaScript"
                 }
             ],
@@ -813,7 +813,7 @@
                     "texto": "Sweet Alert"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap v3.3.6"
                 }
             ],
@@ -926,7 +926,7 @@
                     "texto": "PHP"
                 },
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JavaScript"
                 }
             ],
@@ -936,7 +936,7 @@
                     "texto": "Bootstrap Admin LTE 2"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap v3.3.6"
                 },
                 {
@@ -1234,17 +1234,17 @@
         "herramientas": {
             "lenguajes": [
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT - TYPESCRIPT"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-angular",
                     "texto": "Angular"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap"
                 }
             ]
@@ -1299,17 +1299,17 @@
         "herramientas": {
             "lenguajes": [
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT - TYPESCRIPT"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-angular",
                     "texto": "Angular"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap"
                 }
             ],
@@ -1382,17 +1382,17 @@
         "herramientas": {
             "lenguajes": [
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT - TYPESCRIPT"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-angular",
                     "texto": "Angular 6"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap"
                 }
             ],
@@ -1435,17 +1435,17 @@
         "herramientas": {
             "lenguajes": [
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT - TYPESCRIPT"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-angular",
                     "texto": "Angular 6"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap"
                 }
             ],
@@ -1468,17 +1468,17 @@
         "herramientas": {
             "lenguajes": [
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT - TYPESCRIPT"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-angular",
                     "texto": "Angular 6"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap"
                 }
             ]
@@ -1515,7 +1515,7 @@
         "herramientas": {
             "lenguajes": [
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT - TYPESCRIPT"
                 }
             ],
@@ -1574,7 +1574,7 @@
         "herramientas": {
             "lenguajes": [
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JAVASCRIPT - TYPESCRIPT"
                 }
             ],
@@ -1588,7 +1588,7 @@
                     "texto": "Ionic"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-angular",
                     "texto": "Angular"
                 }
             ]
@@ -1685,17 +1685,17 @@
         "herramientas": {
             "lenguajes": [
                 {
-                    "icono": "fa-li fas fa-code",
+                    "icono": "fa-li fab fa-js",
                     "texto": "JavaScript"
                 }
             ],
             "herramientas": [
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-laravel",
                     "texto": "Framework Laravel 5.5"
                 },
                 {
-                    "icono": "fa-li fa fa-tools",
+                    "icono": "fa-li fab fa-bootstrap",
                     "texto": "Bootstrap"
                 },
                 {
