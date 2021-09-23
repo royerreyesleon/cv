@@ -1859,5 +1859,50 @@
                 }
             ]
         }
+    },
+    {
+        "id": "614cd07b0c3cf",
+        "encabezado": "Fazt Code - Ionic & Angular | Rick y Morty API",
+        "titulo": "Fazt Code - Ionic & Angular | Rick y Morty API",
+        "subtitulo": ".",
+        "descripcion": "<p>En este ejemplo ejemplo practicaremos un poco de Ionic y angular crear una app que lista personajes de Rick and morty (Serie de televisi&oacute;n). Adem&aacute;s aprenderemos a hacer build de nuestra aplicaci&oacute;n para poder generar una aplicaci&oacute;n m&oacute;vil de Android utilizando Android Studio.&nbsp;Todos los derechos a&nbsp;<a href=\"https:\/\/www.youtube.com\/channel\/UCMn28O1sQGochG94HdlthbA\" target=\"_blank\">Fazt Code<\/a><\/p>\r\n",
+        "orden": 18,
+        "activo": "SI",
+        "imagenes": [
+            {
+                "id": "614cde9fa3bf74.78573790",
+                "orden": 1,
+                "imagen": "614cde9fa3bf74.78573790.png",
+                "activo": "SI"
+            },
+            {
+                "id": "614cde9faee196.55969288",
+                "orden": 2,
+                "imagen": "614cde9faee196.55969288.png",
+                "activo": "SI"
+            }
+        ],
+        "herramientas": {
+            "lenguajes": [
+                {
+                    "icono": "fa-li fab fa-js",
+                    "texto": "JAVASCRIPT - TYPESCRIPT"
+                }
+            ],
+            "herramientas": [
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Android Studio"
+                },
+                {
+                    "icono": "fa-li fa fa-tools",
+                    "texto": "Ionic"
+                },
+                {
+                    "icono": "fa-li fab fa-angular",
+                    "texto": "Angular"
+                }
+            ]
+        }
     }
 ]
